@@ -1,0 +1,233 @@
+[
+  {
+    "objectID": "assignments/index.html",
+    "href": "assignments/index.html",
+    "title": "Assignment Details",
+    "section": "",
+    "text": "On this page, you can find more information about each individual assignment, as well as the assignments themselves.\nUse this tool to help calculate your overall course grade using existing assignment grades, as well as forecast “what if” scenarios.\nPlease refer to the syllabus for more information about grades."
+  },
+  {
+    "objectID": "assignments/index.html#homeworks",
+    "href": "assignments/index.html#homeworks",
+    "title": "Assignment Details",
+    "section": "Homeworks",
+    "text": "Homeworks\nThere will be several problem sets (one at the end of each lesson). Problem sets will be a combination of math/statistical theory & application problems and problems that require use of R with real data. You may collaborate with other students to work on problem sets, but each person must turn in an individual problem set. Problem sets are due one week from the class period where we finish a lesson, and must emailed to me by the start of class (so please type or, if you must, hand write and scan them)."
+  },
+  {
+    "objectID": "assignments/index.html#exams",
+    "href": "assignments/index.html#exams",
+    "title": "Assignment Details",
+    "section": "Exams",
+    "text": "Exams\nThis class will have two (2) exams."
+  },
+  {
+    "objectID": "assignments/index.html#midterm-exam",
+    "href": "assignments/index.html#midterm-exam",
+    "title": "Assignment Details",
+    "section": "Midterm Exam",
+    "text": "Midterm Exam\nAfter we have finished linear regression, there will be a midterm constituting a combination of multiple choice, problem, and short answer questions. This will cover the content we discuss in class, my lectures, and the readings. The midterm provides feedback both to you and to me that ensures everyone is progressing on schedule and comprehending the material. This is critical, as the rest of the course will build off of this foundation."
+  },
+  {
+    "objectID": "assignments/index.html#final-exam",
+    "href": "assignments/index.html#final-exam",
+    "title": "Assignment Details",
+    "section": "Final Exam",
+    "text": "Final Exam\nOn the college-determined date, we will have a comprehensive, closed-book, in-class final exam."
+  },
+  {
+    "objectID": "content/1.1-content.html#overview",
+    "href": "content/1.1-content.html#overview",
+    "title": "1.1 — Introduction and Overview — Class Content",
+    "section": " Overview",
+    "text": "Overview\nWelcome to ECON 480 — Econometrics! Today’s lesson will be an overview of the content and the assignments of the course. Please read and familiarize yourself with the syllabus.\nThis is not just a “syllabus day,” as we need to hit the ground running, beginning with learning the software we will be using this semester. Starting next class, we will do a deep dive in to R for about 2 weeks. In preparation, please do the following before next class:\n\nGo to RStudio.cloud and register a (free) account with your Hood details.\nTry to install R and R Studio on your computer if you are able, before next class. You will still always have RStudio.cloud available all to use in your browser, but it is much better to have a real version of R and R Studio on your own machine to work with all semester."
+  },
+  {
+    "objectID": "content/1.1-content.html#readings",
+    "href": "content/1.1-content.html#readings",
+    "title": "1.1 — Introduction and Overview — Class Content",
+    "section": " Readings",
+    "text": "Readings\nToday is introductory, but please heed this timeless message:\n\n\nA message to students from the Doggfather himself, @SnoopDogg pic.twitter.com/wsSANYv8u6\n\n— Ryan Briggs (@ryancbriggs) August 12, 2020\n\n\nPlease note going forward, the lesson numbers and topics (e.g. 1.1) on this website are my design, and will not match up with the textbook!"
+  },
+  {
+    "objectID": "content/1.1-content.html#slides",
+    "href": "content/1.1-content.html#slides",
+    "title": "1.1 — Introduction and Overview — Class Content",
+    "section": " Slides",
+    "text": "Slides\nBelow, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. Note while in going through the slides, you can type h to see a special list of viewing options, and type o for an outline view of all the slides.\nThe lower button will allow you to download a PDF version of the slides. I suggest printing the slides beforehand and using them to take additional notes in class (not everything is in the slides)!\n\n\n\n\n Download as PDF"
+  },
+  {
+    "objectID": "content/1.1-content.html#assignments",
+    "href": "content/1.1-content.html#assignments",
+    "title": "1.1 — Introduction and Overview — Class Content",
+    "section": " Assignments",
+    "text": "Assignments\n\nPreliminary Statistics Survey Due Sunday August 29\nPlease take the preliminary survey on your statistics and software background by 11:59 PM Sunday. This will help us all have a productive semester together."
+  },
+  {
+    "objectID": "content/index.html",
+    "href": "content/index.html",
+    "title": "Overview",
+    "section": "",
+    "text": "Please note that the lesson numbers, topics, and titles (e.g. 1.1) are my design, and do not match up with the textbook!"
+  },
+  {
+    "objectID": "credits.html",
+    "href": "credits.html",
+    "title": "Credits",
+    "section": "",
+    "text": "This website is written in R Markdown, built with Hugo, pushed to Github, and hosted by Netlify.\nThe theme is based on Academia-hugo, which I modified.\nThe inspiration for making individual course websites, along with the basic structure, comes from the incomparable Andrew Heiss. See his website for examples, as well as a number of helpful tutorials. Sadly, I had to figure out how these websites work on my own, and attempted to document my process in the README of this repository for those interested. One day I may make a guide.\nThe course hex sticker I made via hexSticker, and keep all of my course hex stickers in this repository."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ECON 452 — History of Economic Thought",
+    "section": "",
+    "text": "Instructor\n\n   Dr. Ryan Safner\n   114 Rosenstock\n   safner@hood.edu\n   ryansafner\n\n\n\nCourse details\n\n   TuTh\n   Aug 22—Dec 13, 2022\n   2:00—3:25 PM\n   Rosenstock 101\n   Slack\n\n\n\nContacting me\nEmail."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "resources/appendices.html",
+    "href": "resources/appendices.html",
+    "title": "List of Math & R Appendices",
+    "section": "",
+    "text": "The following list contains links to all appendices spread across the Class Content pages:\n\n\n\nAppendix\nType\nClass\n\n\n\n\nInstalling R and R Studio\nR\n1.2 class\n\n\nR Packages\nR\n1.2 class\n\n\nGetting Help for R\nR\n1.2 class\n\n\nOther Useful Commands to Know\nR\n1.2 class\n\n\nSuggested Style Guide for Coding\nR\n1.2 class\n\n\nThe Summation Operator\nMath/Stats\n2.1 class\n\n\nUseful Properties of Summation Operators\nMath/Stats\n2.1 class\n\n\nUseful Properties for Regression\nMath/Stats\n2.1 class\n\n\nProperties of Expected Value and Variance\nMath/Stats\n2.2 class\n\n\nGraphing Mathematical Functions\nR\n2.2 class\n\n\nBult-in Statistical Functions\nR\n2.2 class\n\n\nGraphing Statistical Functions\nR\n2.2 class\n\n\nVariance, Covariance, and Correlation\nMath/Stats\n2.3 class\n\n\nDeriving the OLS Estimators\nMath/Stats\n2.4 class\n\n\nAlgebraic Properties of OLS Estimators\nMath/Stats\n2.4 class\n\n\nBias in \\(\\hat{\\beta_1}\\)\nMath/Stats\n2.4 class\n\n\nProof of the Unbiasedness of \\(\\hat{\\beta_1}\\)\nMath/Stats\n2.4 class\n\n\nRobust Standard Errors in R\nR\n2.5 class\n\n\nDifferences Between What We Learned in Class and Classical Statistics\nR\n2.6 class\n\n\nT-Test for Difference in Group Means\nMath/Stats\n3.6 class\n\n\nMarginal Effects for Two-Continuous Variable Interactions\nMath/Stats\n3.7 class"
+  },
+  {
+    "objectID": "resources/index.html",
+    "href": "resources/index.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Look here over the course of the semester for resources, links, and tips on how to succeed in the course, how to write well, and other things of interest related to econometrics, data analysis, managing your workflow, and using R."
+  },
+  {
+    "objectID": "resources/pdfs.html",
+    "href": "resources/pdfs.html",
+    "title": "How to Make a PDF",
+    "section": "",
+    "text": "There are many good apps out there that will allow you to take photos and convert them to PDFs. This is actually a better method than using your computer (described below), since theses apps optimize your photos for PDFs (using your computer to convert will often result in very large PDF file sizes!). Here are a few apps you can use:\n\nScannable 1\nTurboscan \nImage to PDF Converter Free \nPDF Converter Pro \nSimple Scan \n\nPersonally, I use Scannable — primarily because of its association with Evernote, if you wanted a recommendation. But note it does not exist on Android. I also have successfully used Turboscan in the past.\nAdditionally, as Hood students, you all have Onedrive, you can use the app on your phone to scan documents with photos and convert them to PDFs."
+  },
+  {
+    "objectID": "resources/pdfs.html#using-images-sent-to-your-computer",
+    "href": "resources/pdfs.html#using-images-sent-to-your-computer",
+    "title": "How to Make a PDF",
+    "section": "Using Images Sent to Your Computer",
+    "text": "Using Images Sent to Your Computer\nMost modern versions of operating system have a built-in tool in the File Viewer (or Finder) menus, after clicking on one or multiple files, to create a PDF from the files.\nSo first take photos on your smartphone of your written work (one photo per page). Please try to frame your photos properly! Put your paper flat on a solid surface (table, desk, the floor, etc). Get the whole page within the borders of the photo, and not too much background. I don’t need to see half of your desk or bed as you are taking the photo! Take a look at it and make sure it is legible.\nNext, get the photos onto your computer (whether by Airdrop, email to yourself, Dropbox, etc.). Finally, depending on your OS, convert the files to a PDF:\n1. On a Windows PC\nOpen the folder where your photos are currently, in the File Explorer. Select all of the photos, and right click, and select Print. In the dialog box that pops up, select Microsoft Print to PDF in the Printer box, and then click Print. This will save it as a .pdf file in that folder. See more information.\n2. On a Mac\nAs I use a Mac, I will show you how Mac OS has a neat feature built into Finder, which allows converting multiple files into a single PDF file as a Quick Action. I have written two pages in a notebook and taken two separate pictures of them, and airdropped them onto my computer.\n\n\n\nHere is the  example PDF.\n3. On Linux\nIf you use Linux, I assume you know your way around a computer well enough to make a PDF! 🤖"
+  },
+  {
+    "objectID": "resources/tips.html",
+    "href": "resources/tips.html",
+    "title": "Tips for Success in This Course",
+    "section": "",
+    "text": "Footnotes\n\n\nYes, that means I am doing a ton of learning every time I teach!↩︎\nYes, Google is your best friend. But you do not yet know how to ask the right questions, or understand what constitutes good answers.↩︎"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Content materials contains suggested readings, more details about assignments, math appendices, and other helpful resources. I suggest you view these before each class.\n Slides are “Xaringan” presentations in html that can be opened in any browser (You can find a downloadable PDF in each respective content page)\n Assignments are listed with due dates\n\nPlease note that the lesson numbers, topics, and titles (e.g. 1.1) are my design, and do not match up with the textbook!\nRelevant materials, if applicable will be posted before class meets and become colored links.\n\n\n\n\n\n\n\n\n\n\n\n\n\nI. Pre-Classical Economics (Pre-1750)\n\n\n\n\n\n\n\nTitle\n\n\nContent\n\n\nSlides\n\n\nAssignment\n\n\n\n\n\n\nTue Aug 23\n\n\n1.1 — Introduction and Overview\n\n\n\n\n\n\n\n\n\n\n\n\n\nThu Aug 25\n\n\n1.2 — So What Exactly is Economics?\n\n\n\n\n\n\n\n\n\n\n\n\n\nMon Aug 29\n\n\n1.3 — Ancient Writers (Mostly Greek)\n\n\n\n\n\n\n\n\n\n\n\n\n\nWed Aug 31\n\n\n1.4 — Medieval Religious Writers\n\n\n\n\n\n\n\n\n\n\n\n\n\nTue Sep 06\n\n\n1.5 — Mercantilism\n\n\n\n\n\n\n\n\n\n\n\n\n\nThu Sep 08\n\n\n1.6 — Politics & Revolution\n\n\n\n\n\n\n\n\n\n\n\n\n\nTue Sep 13\n\n\n1.7 — Cantillon, Physiocrats, & Turgot\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nII. Classical Economics (c.1750-1870)\n\n\n\n\n\n\n\nTitle\n\n\nContent\n\n\nSlides\n\n\nAssignment\n\n\n\n\n\n\nThu Sep 15\n\n\n2.1 — David Hume & Adam Smith the Philosopher\n\n\n\n\n\n\n\n\n\n\n\n\n\nTue Sep 20\n\n\n2.2 — Adam Smith & the Classical System\n\n\n\n\n\n\n\n\n\n\n\n\n\nThu Sep 22\n\n\n2.3 — Adam Smith: Economic Growth & Price Theory\n\n\n\n\n\n\n\n\n\n\n\n\n\nTue Sep 27\n\n\n2.4 — Thomas Malthus & The Population Principle\n\n\n\n\n\n\n\n\n\n\n\n\n\nThu Sep 29\n\n\n2.5 — Ricardian Rent Theory\n\n\n\n\n\n\n\n\n\n\n\n\n\nTue Oct 04\n\n\n2.6 — Classical Macroeconomics & Say’s Law Debate\n\n\n\n\n\n\n\n\n\n\n\n\n\nThu Oct 06\n\n\n2.7 — John Stuart Mill & The Decline of Classical Economics\n\n\n\n\n\n\n\n\n\n\n\n\n\nTue Oct 11\n\n\n2.8 — The Marxist Challenge\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPaper 1\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIII. Neoclassical Economics (c.1870-1930)\n\n\n\n\n\n\n\nTitle\n\n\nContent\n\n\nSlides\n\n\nAssignment\n\n\n\n\n\n\nThu Oct 13\n\n\n3.1 — The Marginalist Revolution, Jevons & Menger\n\n\n\n\n\n\n\n\n\n\n\n\n\nTue Oct 18\n\n\n3.2 — Marginal Productivity Theory\n\n\n\n\n\n\n\n\n\n\n\n\n\nThu Oct 20\n\n\n3.3 — Capital & Interest Theory\n\n\n\n\n\n\n\n\n\n\n\n\n\nTue Oct 25\n\n\n3.4 — Marshallian Economics I: Demand & Utility\n\n\n\n\n\n\n\n\n\n\n\n\n\nThu Oct 27\n\n\n3.5 — Marshallian Economics II: Cost & Production\n\n\n\n\n\n\n\n\n\n\n\n\n\nTue Nov 01\n\n\n3.6 — Walrasian General Equilibrium Theory\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n3.7 — Welfare Economics\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPaper 2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIV. Challenges & Extensions to Neoclassical Economics\n\n\n\n\n\n\n\nTitle\n\n\nContent\n\n\nSlides\n\n\nAssignment\n\n\n\n\n\n\nTue Nov 08\n\n\n4.1 — The German Historical School & American Institutionalism\n\n\n\n\n\n\n\n\n\n\n\n\n\nThu Nov 10\n\n\n4.2 — The Socialist Calculation Debate\n\n\n\n\n\n\n\n\n\n\n\n\n\nTue Nov 15\n\n\n4.3 — The Evolution of Modern Microeconomics\n\n\n\n\n\n\n\n\n\n\n\n\n\nThu Nov 17\n\n\n4.4 — The Keynesian Revolution\n\n\n\n\n\n\n\n\n\n\n\n\n\nTue Nov 22\n\n\n4.5 — The Evolution of Modern Macroeconomics\n\n\n\n\n\n\n\n\n\n\n\n\n\nTue Nov 29\n\n\nNA\n\n\n\n\n\n\n\n\n\n\n\n\n\nThu Dec 01\n\n\nNA\n\n\n\n\n\n\n\n\n\n\n\n\n\nTue Dec 06\n\n\nNA\n\n\n\n\n\n\n\n\n\n\n\n\n\nThu Dec 08\n\n\nNA\n\n\n\n\n\n\n\n\n\n\n\n\n\nTue Dec 13\n\n\nNA"
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Dr. Ryan Safner\n   114 Rosenstock\n   safner@hood.edu\n   ryansafner\n   Schedule an appointment\n\n\n\n\n\n   TuTh\n   Aug 22—Dec 13, 2022\n   2:00—3:25 PM\n   Rosenstock 101\n   Slack\n\n\n\n\nEmail.\nEconometrics is the application of statistical tools to quantify and measure economic relationships in the real world. It uses real data to test economic hypotheses, quantitatively estimate causal relationships between economic variables, and to make forecasts of future events. The primary tool that economists use for empirical analysis is ordinary least squares (OLS) linear regression, so the majority of this course will focus on understanding, applying, and extending OLS regressions.\nI assume you have some working knowledge of economics at the intermediate level and some basic statistical tools.The formal prerequisites for this course are ECON 205 and ECON 206; ECMG 212 or MATH 112; and ECON 305 or ECON 306. We will do some basic review of some necessary statistics and probability at the beginning until everyone is comfortable, before jumping right into regressions."
+  },
+  {
+    "objectID": "syllabus.html#books",
+    "href": "syllabus.html#books",
+    "title": "Syllabus",
+    "section": "Books",
+    "text": "Books\nThe following book is required and will be available from the campus bookstore. (You are not obligated to buy it, I just strongly recommend it in the sense that you will still have access to all data and assignments without possessing the book. But this is a course where you really will want to understand the derivations or get additional context beyond just my slides…)\n\nBailey, Michael A, 2019, Real Econometrics, New York: Oxford University Press, 2nd ed.\n\nYou are welcome to purchase the book by other means (e.g. Amazon, half.com, etc). I have no financial stake in requiring you to purchase this book. The (cheaper) 1st edition is sufficient, but makes significantly less use of R (in favor of STATA).\nThe following two books are recommended, and are free online. (You can purchase a hard copy of the first one if you really want.):\n\nGrolemund, Garrett and Hadley Wickham, R For Data Science\nIsmay, Chester and Albert Y Kim, Modern Dive: Statistical Inference Via Data Science\n\nThe first book is the number one resource for using R and tidyverse, and is written for beginners. I still look at it frequently. The second is another great reference for using tidyverse in the context of basic statistics."
+  },
+  {
+    "objectID": "syllabus.html#articles",
+    "href": "syllabus.html#articles",
+    "title": "Syllabus",
+    "section": "Articles",
+    "text": "Articles\nThroughout the course, I will post both required and supplemental (non-required) readings that enrich your understanding for each topic."
+  },
+  {
+    "objectID": "syllabus.html#software",
+    "href": "syllabus.html#software",
+    "title": "Syllabus",
+    "section": "Software",
+    "text": "Software\nYou are strongly recommended to download copies of R and R Studio on your own computers. These software packages are available on all computers in the trading room, and you will have access to them during the week to work on assignments.\nWe will also have a shared class workspace in RStudio.cloud that runs a full instance of R Studio in your web browser (so no need to install anything!) will let you access files and assignments."
+  },
+  {
+    "objectID": "syllabus.html#attendence",
+    "href": "syllabus.html#attendence",
+    "title": "Syllabus",
+    "section": "Attendence",
+    "text": "Attendence\nYour day-to-day classroom attendance is not graded. My philosophy is that you are all adults and must take ownership of your own learning or else you will not succeed. Some assignments may require in-class participation for credit, and an (unexcused) absence may be detrimental to your grade. Attending class is one of the strongest predictors of success.\nHowever, as required under Hood College’s “Promise of Fall Plan,” (Ch. 2-C) your classroom attendance will be recorded at every class meeting. This is primarily to facilitate contact tracing.\nIf you know you will be absent, you are not required to let me know, but it is polite to give notice (Note if I do not reply to an email of yours letting me know, I am probably busy but will still see it and appreciate your email). Your absence will be noted and recorded for the purposes stated above. If, however, we have an assignment due in class, you must notify me ahead of time in order to make alternate arrangements to still receive credit. Hasty ex-post attempts to notify me will generate little sympathy."
+  },
+  {
+    "objectID": "syllabus.html#late-assignments",
+    "href": "syllabus.html#late-assignments",
+    "title": "Syllabus",
+    "section": "Late Assignments",
+    "text": "Late Assignments\nI will accept late assignments, but will subtract a specified amount of points as a penalty. Even if it is the last week of the semester, I encourage you to turn in late work: some points are better than no points!\nHomeworks: If you turn in a homework after it is due but before it is graded or the answer key posted, I generally will not take off any points. However, if you turn in a homework after the answer key is posted, I will automatically deduct 15 points (so the maximum grade you can earn on it is an 80).\nExams: If you know that you will be unable to complete an in-class exam as scheduled for a legitimate reason, please notify me at least one week in advance, and we will schedule a make-up exam date. Failure to do so, including desperate attempts to make arrangements only after the exam will result in a grade of 0 and little sympathy.\nPapers: Starting at the deadline, I will take off 1 point for every hour that your assignment is late.\nI reserve the right to re-weight assignments for students whom I believe are legitimately unable to complete a particular assignment."
+  },
+  {
+    "objectID": "syllabus.html#grading",
+    "href": "syllabus.html#grading",
+    "title": "Syllabus",
+    "section": "Grading",
+    "text": "Grading\nI will try my best to post grades on Blackboard’s Grading Center and return graded assignments to you within about one week of you turning them in. There will be exceptions. Where applicable, I will post answer keys once I know most homeworks are turned in (see Late Assignments above for penalties). Blackboard’s Grading Center is the place to look for your most up-to-date grades. See also my  Grade Calculator app where you can calculate your overall grade using existing assignment grades and forecast “what if” scenarios."
+  },
+  {
+    "objectID": "syllabus.html#communication-email-slack-and-virtual-office-hours",
+    "href": "syllabus.html#communication-email-slack-and-virtual-office-hours",
+    "title": "Syllabus",
+    "section": "Communication: Email, Slack, and Virtual Office Hours",
+    "text": "Communication: Email, Slack, and Virtual Office Hours\nStudents must regularly monitor their Hood email accounts to receive important college information, including messages related to this class. Email through the Blackboard system is my main method of communicating announcements and deadlines regarding your assignments. Please do not reply to any automated Blackboard emails - I may not recieve it!. My Hood email (safner@hood.edu) is the best means of contacting me. I will do my best to respond within 24 hours. If I do not reply within 48 hours, do not take it personally, and feel free to send a follow up email in the very likely event that I genuinely did not see your original message.\nOur slack channel is available to all students and faculty in Economics and Business. I have invited all of my classes and advisees. It will not be extended to non-Business/Economics students or faculty. All users must use their hood emails and true first and last names. Each course has its own channel, exclusive for verified students in the course, and myself, by my invite only. As a third party platform, you agree to its Terms of Service. I have created this space as a way to stay connected, to help one another, and to foster community. Behaviors such as posting inappropriate content, harassing others, or engaging in academic dishonesty, to be determined solely at my discretion, will result in one warning, the content will be deleted, and subsequent behavior will result in a ban.\nIn addition to in-person office hours, you can also make an appointment for “office hours” on Zoom. You can join in with video, audio, and/or chat, whichever you feel comfortable with. Of course, if you are not available during those times, we can schedule our own time if you prefer this method over email or Slack. If you want to go over material from class, please have specific questions you want help with. I am not in the business of giving private lectures (particularly if you missed class without a valid excuse).\nWatch this excellent and accurate video explaining office hours:"
+  },
+  {
+    "objectID": "syllabus.html#netiquette",
+    "href": "syllabus.html#netiquette",
+    "title": "Syllabus",
+    "section": "Netiquette",
+    "text": "Netiquette\nWhen using Zoom and Slack, please follow appropriate internet etiquette (“Netiquette”). Written communications, like blog posts or use of the Zoom chat, lacks important nonverbal cues (such as body language, tone of voice, sarcasm, etc).\nAbove all else, please respect one another and think/reread carefully about how others may see your post before you submit a comment. You are expected to disagree and have different opinions, this is inherently valuable in a discussion. Please be civil and constructive in responding to others’ comments: writing “have you considered ‘X’?” is a lot more helpful to all involved than just writing “well you’re just wrong.”\nPosting content that is wilfully incindiary, illegal, or that constitutes academic dishonesty (such as plagarism) will automatically earn a grade of 0 and may be elevated to other authorities on campus.\nWhen using the chat function on Zoom or public Slack channels, please treat it as official course communications, even though I may not be grading it. It may be a quick and informal tool - don’t feel you need to worry about spelling or perfect grammar - but please try to avoid too informal “text-speak” (i.e. say “That’s good for you” instead of “thas good 4 u”)."
+  },
+  {
+    "objectID": "syllabus.html#privacy",
+    "href": "syllabus.html#privacy",
+    "title": "Syllabus",
+    "section": "Privacy",
+    "text": "Privacy\nMaryland law requires all parties consent for a conversation or meeting to be recorded. If you join in, and certainly if you participate, you are consenting to be recorded. However, as described below, videos are not accessible beyond our class.\nLive lectures are recorded on Zoom and posted to Blackboard via Panopto, a secure course management system for video. Among other nice features (such as multiple video screens, close captioning, and time-stamped search functions!), Panopto is authenticated via your Blackboard credentials, ensuring that our course videos are not accessible to the open internet.\n\nFor the privacy of your peers, and to foster an environment of trust and academic freedom to explore ideas, do not record our course lectures or discussions. You are already getting my official copies.\nThe Family Educational Rights and Privacy Act prevents me from disclosing or discussing any student information, including grades and records about student performance. If the student is at least 18 years of age, parents (or spouses) do not have a right to obtain this information, except with consent by the student.\nMany of you may be tuning in remotely, living with parents, and may have occasional interruptions due to sharing a space. This is normal and fine, but know that I will protect your privacy and not discuss your performance when parents (or anyone other than you, for that matter) are present, without your explicit consent."
+  },
+  {
+    "objectID": "syllabus.html#enrollment",
+    "href": "syllabus.html#enrollment",
+    "title": "Syllabus",
+    "section": "Enrollment",
+    "text": "Enrollment\nStudents are responsible for verifying their enrollment in this class. The last day to add or drop this class with no penalty is Wednesday, September 1. Be aware of important dates."
+  },
+  {
+    "objectID": "syllabus.html#honor-code",
+    "href": "syllabus.html#honor-code",
+    "title": "Syllabus",
+    "section": "Honor Code",
+    "text": "Honor Code\nHood College has an Academic Honor Code which requires all members of this community to maintain the highest standards of academic honesty and integrity. Cheating, plagiarism, lying, and stealing are all prohibited. All violations of the Honor Code are taken seriously, will be reported to appropriate authority, and may result in severe penalties, including expulsion from the college. See here for more detailed information."
+  },
+  {
+    "objectID": "syllabus.html#van-halen-and-mms",
+    "href": "syllabus.html#van-halen-and-mms",
+    "title": "Syllabus",
+    "section": "Van Halen and M&Ms",
+    "text": "Van Halen and M&Ms\nWhen you have completed reading the syllabus, email me a picture of the band Van Halen and a picture of a bowl of M&Ms. If you do this before the date of the first exam, you will get bonus points on the exam. If 75-100% of the class does this, you each get 2 points. If 50-75% of the class does this, you each get 4 points. If 25-50% of the class does this, you each get 6 points. If 0-25% of the class does this, you each get 8 points. Yes, you read this correctly."
+  },
+  {
+    "objectID": "syllabus.html#accessibility-equity-and-accommodations",
+    "href": "syllabus.html#accessibility-equity-and-accommodations",
+    "title": "Syllabus",
+    "section": "Accessibility, Equity, and Accommodations",
+    "text": "Accessibility, Equity, and Accommodations\nCollege courses can, and should, be challenging and bring you out of your comfort zone in a safe and equitable environment. If, however, you feel at any point in the semester that certain assignments or aspects of the course will be disproportionately uncomfortable or burdensome for you due to any factor beyond your control, please come see me or email me. I am a very understanding person and am happy to work out a solution together. I reserve the right to modify and reweight assignments at my sole discretion for students that I belive would legitimately be at a disadvantage, through no fault of their own, to complete them as described.\nIf you are unable to afford required textbooks or other resources for any reason, come see me and we can find a solution that works for you.\nThis course is intended to be accessible for all students, including those with mental, physical, or cognitive disabilities, illness, injuries, impairments, or any other condition that tends to negatively affect one’s equal access to education. If at any point in the term, you find yourself not able to fully access the space, content, and experience of this course, you are welcome to contact me to discuss your specific needs. I also encourage you to contact the Office of Accessibility Services (301-696-3421). If you have a diagnosis or history of accommodations in high school or previous postsecondary institutions, Accessibility Services can help you document your needs and create an accommodation plan. By making a plan through Accessibility Services, you can ensure appropriate accommodations without disclosing your condition or diagnosis to course instructors."
+  }
+]

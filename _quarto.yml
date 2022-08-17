@@ -1,0 +1,69 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "!slides/" # don't knit slides when website is updated
+  resources:
+    - "files/"
+
+website:
+  title: "ECON 452 — History of Economic Thought"
+  favicon: "files/images/thought_hex.png"
+  open-graph: true
+  twitter-card: true
+  image: "files/images/thought_hex.png"
+  navbar:
+    pinned: true
+    search: true
+    logo: "files/images/thought_hex.png"
+    right:
+      - syllabus.qmd
+      - schedule.qmd
+      - text: Content
+        href: content/index.qmd
+      - text: Assignments
+        href: assignments/index.qmd
+  sidebar:
+    - title: "Content"
+      style: "docked"
+      search: false
+      contents:
+        - section: "Overview"
+          contents: 
+            - content/index.qmd
+        - section: "I. Pre-Classical Economics (Pre-1750)"
+          contents: 
+            - text: "1.1 — Introduction and Overview"
+              href: content/1.1-content.qmd
+              
+    - title: "Assignments"
+      style: "docked"
+      search: false
+      contents:
+        - section: "Assignments"
+          contents:
+            - assignments/index.qmd
+        - section: "Tournament"
+          contents:
+            - assignments/tournament.qmd
+
+  page-footer:
+    left: |
+      Content {{< fa brands creative-commons >}} {{< var course.copyright_year >}} by [{{< var instructor.name_no_title >}}]({{< var instructor.url >}}) <br>
+      All content licensed under a {{< fa brands creative-commons >}}
+      {{< fa brands creative-commons-by >}} {{< fa brands creative-commons-nc >}}
+      [Creative Commons Attribution-NonCommercial 4.0 International license (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/)
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)<br>
+      [View the source at {{< fa brands github >}} GitHub]({{< var course.github >}})
+
+format:
+  html:
+    theme:
+      - cosmo
+      - html/custom.scss
+    css: styles.css
+    toc: true
+
+editor: visual
+

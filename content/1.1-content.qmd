@@ -3,60 +3,43 @@ title: "1.1 — Introduction and Overview — Class Content"
 ---
 
 ```{r, echo = F}
-source(here::here("files", "slides", "slide-links.R"))
+source(here::here("slides", "slide-links.R"))
 ```
 
-::: callout-note
-# 
-
-*Section 1: Monday, August 24, 2022*
-*Section 2: Tuesday, August 25, 2022*
-:::
-
-::: callout-warning
-Please complete the [preliminary survey](/assignment/00-preliminary-survey) by Sunday August 29.
-:::
-
-::: callout-tip
-A tip
+::: {.callout-note appearance=minimal}
+# Meeting Dates
+*Tuesday, August 23, 2022*
 :::
 
 ## <i class="fas fa-info-circle fa-lg"></i> Overview
 
-Welcome to ECON 480 --- Econometrics! Today's lesson will be an overview of the content and the assignments of the course. Please read and familiarize yourself with the [syllabus](/syllabus).
-
-This is not just a "syllabus day," as we need to hit the ground running, beginning with learning the software we will be using this semester. Starting next class, we will do a deep dive in to R for about 2 weeks. In preparation, please do the following **before next class**:
-
-1.  Go to [RStudio.cloud](https://rstudio.cloud) and register a (free) account with your Hood details.
-
-2.  Try to [install R and R Studio](https://metricsf22.classes.ryansafner.com/reference/#installing-r-and-r-studio) on your computer if you are able, before next class. You will still always have RStudio.cloud available all to use in your browser, but it is much better to have a real version of `R` and `R Studio` on your own machine to work with all semester.
+Welcome to ECON 452 — History of Economic Thought! Today’s lesson will be an introduction to the course and a bit about why the history of economics matters, explain in part by looking at the profession of economics today. Please read and familiarize yourself with the [syllabus](/syllabus).
 
 ## <i class="fas fa-book-reader fa-lg"></i> Readings
 
-Today is introductory, but please heed this timeless message:
+This week we will be covering elements of:
 
-<blockquote class="twitter-tweet">
+- <i class="fas fas fa-book"></i> Ch.1 in Landreth and Colander
+- <i class="fas fas fa-book"></i> Ch.1 in Blaug 1996
 
-<p lang="en" dir="ltr">
+I recommend reading this to get acquainted with some of the big picture ideas and debates we are going to wrestle with this semester, as well as the state of economics today. Regarding economics today, here are some articles that I mention in today’s class:
 
-A message to students from the Doggfather himself, <a href="https://twitter.com/SnoopDogg?ref_src=twsrc%5Etfw">@SnoopDogg</a> <a href="https://t.co/wsSANYv8u6">pic.twitter.com/wsSANYv8u6</a>
+- [<i class="fas fa-file-pdf"></i> Boettke, Fink, and Smith, 2012, "The Impact of Nobel Prize Winners in Economics: Mainline vs. Mainstream"](/readings/Boettke-Fink-Smith-2012.pdf)
+- [<i class="fas fa-file-pdf"></i> Colander, 2015, "Intellectual Incest on the Charles: Why Economists are a little bit off"](/readings/Colander-2015.pdf)
+- [<i class="fas fa-file-pdf"></i> Cawley, 2018, "A Guide and Advice for Economists on the U.S. Junior Academic Job Market, 2018-2019 Edition"](/readings/Cawley-2018.pdf)
+- [<i class="fas fa-file-pdf"></i> Heckman and Moktan, 2020, "Publishing and Promotion in Economics: The Tyranny of the Top Five"](/readings/Heckman-Moktan-2020.pdf)
 
-</p>
-
---- Ryan Briggs (@ryancbriggs) <a href="https://twitter.com/ryancbriggs/status/1293543531496308736?ref_src=twsrc%5Etfw">August 12, 2020</a>
-
-</blockquote>
-
-```{=html}
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-```
 Please note going forward, the lesson numbers and topics (e.g. 1.1) on this website are *my* design, and will not match up with the textbook!
 
 ## <i class="fas fa-chalkboard-teacher"></i> Slides
 
-Below, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. Note while in going through the slides, you can type <kbd>h</kbd> to see a special list of viewing options, and type <kbd>o</kbd> for an outline view of all the slides.
+Below, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides. 
 
-The lower button will allow you to download a PDF version of the slides. I suggest printing the slides beforehand and using them to take additional notes in class (*not everything* is in the slides)!
+::: callout-tip
+You can type <kbd>h</kbd> to see a special list of viewing options, and type <kbd>o</kbd> for an outline view of all the slides.
+:::
+
+I suggest printing the slides beforehand and using them to take additional notes in class (*not everything* is in the slides)!
 
 ```{r}
 #| echo: false
@@ -64,9 +47,3 @@ The lower button will allow you to download a PDF version of the slides. I sugge
 
 slide_links("1.1-slides")
 ```
-
-## <i class="fas fa-laptop-code"></i> Assignments
-
-### Preliminary Statistics Survey Due Sunday August 29
-
-Please take the [preliminary survey](/assignment/00-preliminary-survey) on your statistics and software background by 11:59 PM Sunday. This will help us all have a productive semester together.

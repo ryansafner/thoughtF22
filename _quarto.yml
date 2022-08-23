@@ -5,6 +5,8 @@ project:
     - "!slides/" # don't knit slides when website is updated
   resources:
     - "files/"
+    - "slides/"
+    - "images/"
 
 website:
   title: "ECON 452 — History of Economic Thought"
@@ -40,12 +42,12 @@ website:
       style: "docked"
       search: false
       contents:
-        - section: "Assignments"
-          contents:
-            - assignments/index.qmd
-        - section: "Tournament"
-          contents:
-            - assignments/tournament.qmd
+        - text: "Assignments Overview"
+          href: assignments/index.qmd
+        - text: "Participation and Discussion"
+          href: assignments/participation.qmd
+        - text: "Tournament"
+          href: assignments/tournament.qmd
 
   page-footer:
     left: |

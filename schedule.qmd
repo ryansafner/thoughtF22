@@ -84,6 +84,6 @@ show_table <- function(unit_id) {
 purrr::walk(seq(1, nrow(nested_sched)), ~show_table(.x))
 ```
 
-<!-- Page apparently loads fa icons if I include one.. -->
+<!-- Page apparently loads fa icons if I include one..
 
-{{< fa battery-half size=2xl >}}
+{{< fa battery-half size=2xl >}} -->

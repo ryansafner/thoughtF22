@@ -8,12 +8,13 @@ instructor:
   twitter: ryansafner
   github: ryansafner
   office: "114 Rosenstock"
+  officehours: "Office Hours: MW 1:30-2:30PM"
 
 course:
   number: "ECON 452"
   semester: "Fall 2022"
   days: "TuTh"
-  time: "2:00—3:25 PM"
+  time: "TuTh 2:00—3:25 PM"
   location: "Rosenstock 101"
   dates: "Aug 22—Dec 13, 2022"
   github: "https://www.github.com/ryansafner/thoughtF22"

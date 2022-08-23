@@ -2,65 +2,58 @@
   {
     "objectID": "assignments/index.html",
     "href": "assignments/index.html",
-    "title": "Assignment Details",
+    "title": "Assignments Overview",
     "section": "",
     "text": "On this page, you can find more information about each individual assignment, as well as the assignments themselves.\nUse this tool to help calculate your overall course grade using existing assignment grades, as well as forecast “what if” scenarios.\nPlease refer to the syllabus for more information about grades."
   },
   {
-    "objectID": "assignments/index.html#homeworks",
-    "href": "assignments/index.html#homeworks",
-    "title": "Assignment Details",
-    "section": "Homeworks",
-    "text": "Homeworks\nThere will be several problem sets (one at the end of each lesson). Problem sets will be a combination of math/statistical theory & application problems and problems that require use of R with real data. You may collaborate with other students to work on problem sets, but each person must turn in an individual problem set. Problem sets are due one week from the class period where we finish a lesson, and must emailed to me by the start of class (so please type or, if you must, hand write and scan them)."
+    "objectID": "assignments/index.html#short-papers",
+    "href": "assignments/index.html#short-papers",
+    "title": "Assignments Overview",
+    "section": "Short Papers",
+    "text": "Short Papers\nThere will be two short papers on assigned topics. The first will be early in the semester, covering topics from the first several weeks. The second will cover topics from the remaining weeks. I am looking for 3-5 page papers that explore subjects prompted by questions that I will provide to you in advance. However, I also encourage you to take the less-trodden path and explore something unique and interesting to you."
   },
   {
-    "objectID": "assignments/index.html#exams",
-    "href": "assignments/index.html#exams",
-    "title": "Assignment Details",
-    "section": "Exams",
-    "text": "Exams\nThis class will have two (2) exams."
+    "objectID": "assignments/index.html#term-paper",
+    "href": "assignments/index.html#term-paper",
+    "title": "Assignments Overview",
+    "section": "Term Paper",
+    "text": "Term Paper\nEach of you will write a term paper tracing and critically discussing the intellectual history of an economic topic of your choice. This assignment will be scaffolded so that certain sections of the paper are due partway through the semester so that I can provide feedback for you to incorporate into the final draft. More information will be provided in class."
   },
   {
-    "objectID": "assignments/index.html#midterm-exam",
-    "href": "assignments/index.html#midterm-exam",
-    "title": "Assignment Details",
-    "section": "Midterm Exam",
-    "text": "Midterm Exam\nAfter we have finished linear regression, there will be a midterm constituting a combination of multiple choice, problem, and short answer questions. This will cover the content we discuss in class, my lectures, and the readings. The midterm provides feedback both to you and to me that ensures everyone is progressing on schedule and comprehending the material. This is critical, as the rest of the course will build off of this foundation."
+    "objectID": "assignments/participation.html",
+    "href": "assignments/participation.html",
+    "title": "Participation and Discussion",
+    "section": "",
+    "text": "I am interested in your thoughts, reactions, comments, and questions about any of the material (lectures and/or readings). You do not need to write more than a paragraph. Anything more than that, including continuing to reply to each others’ thoughts, questions, or comments, (which I strongly hope you do!) is solely based on your own interest and curiosity. I will jump in to answer questions the group is stuck on, give my two cents, and stir the pot as needed. I strontly hope we still keep a conversation going and can learn from each other, that was always my goal, not to lecture at you! If you crave visual human contact, you can submit your comments/reactions in the form of a short video, and we can try that out! Though we might eventually need to move beyond Blackboard in that case. We’ll see how things go.\nRubric:\n\n\n\n\n\n\n\n\n\n\nCategory\n3 Points\n2 Points\n1 Point\n0 points\n\n\n\n\nQuantity\nMore than 2 replies/started threads\n2 replies/started threads\n1 reply\n0 posts\n\n\nQuality\nExtremely thought provoking, demonstrates clear grappling with readings, adds to conversation\nProvides a well-reasoned reply, suggests familiarity with readings, keeps conversation going\nA simple reply, may make no reference to readings or ideas, makes further conversation difficult\nMinimal effort\n\n\n\nRecall, these are out of 5 points. Notice it is possible to get above 5 points for a truly remarkable week of contributions, but I give these sparingly.\nAt the end of the semester, I will drop your lowest participation score."
   },
   {
-    "objectID": "assignments/index.html#final-exam",
-    "href": "assignments/index.html#final-exam",
-    "title": "Assignment Details",
-    "section": "Final Exam",
-    "text": "Final Exam\nOn the college-determined date, we will have a comprehensive, closed-book, in-class final exam."
+    "objectID": "assignments/tournament.html",
+    "href": "assignments/tournament.html",
+    "title": "Tournament",
+    "section": "",
+    "text": "We will run a tournament for “the most interesting economist in history.” Each era of economic thought (Pre-Classical, Classical, Neoclassical, and Modern) will have its own “division”, in which we will vote for the champion of each era (out of up to 8 thinkers), who will then go head to head against the champions of other divisions for the title.\nOnce we complete an era, we will hold the votes in head-to-head matchups between economists. Your assignment is to write up a short explanation behind your vote (1-3 sentences) between each pair. This will allow you to remember and place each thinker in the context of the history of economic thought.\nYour grade for each round of votes that requires explanations (not every round will require explanation) will be out of 5 points, and you will be graded on your reasoning for your votes. Your average grade for your explanations across all of the rounds (out of 100%) will constitute 10% of your final course grade."
   },
   {
     "objectID": "content/1.1-content.html#overview",
     "href": "content/1.1-content.html#overview",
     "title": "1.1 — Introduction and Overview — Class Content",
     "section": " Overview",
-    "text": "Overview\nWelcome to ECON 480 — Econometrics! Today’s lesson will be an overview of the content and the assignments of the course. Please read and familiarize yourself with the syllabus.\nThis is not just a “syllabus day,” as we need to hit the ground running, beginning with learning the software we will be using this semester. Starting next class, we will do a deep dive in to R for about 2 weeks. In preparation, please do the following before next class:\n\nGo to RStudio.cloud and register a (free) account with your Hood details.\nTry to install R and R Studio on your computer if you are able, before next class. You will still always have RStudio.cloud available all to use in your browser, but it is much better to have a real version of R and R Studio on your own machine to work with all semester."
+    "text": "Overview\nWelcome to ECON 452 — History of Economic Thought! Today’s lesson will be an introduction to the course and a bit about why the history of economics matters, explain in part by looking at the profession of economics today. Please read and familiarize yourself with the syllabus."
   },
   {
     "objectID": "content/1.1-content.html#readings",
     "href": "content/1.1-content.html#readings",
     "title": "1.1 — Introduction and Overview — Class Content",
     "section": " Readings",
-    "text": "Readings\nToday is introductory, but please heed this timeless message:\n\n\nA message to students from the Doggfather himself, @SnoopDogg pic.twitter.com/wsSANYv8u6\n\n— Ryan Briggs (@ryancbriggs) August 12, 2020\n\n\nPlease note going forward, the lesson numbers and topics (e.g. 1.1) on this website are my design, and will not match up with the textbook!"
+    "text": "Readings\nThis week we will be covering elements of:\n\n Ch.1 in Landreth and Colander\n Ch.1 in Blaug 1996\n\nI recommend reading this to get acquainted with some of the big picture ideas and debates we are going to wrestle with this semester, as well as the state of economics today. Regarding economics today, here are some articles that I mention in today’s class:\n\n Boettke, Fink, and Smith, 2012, “The Impact of Nobel Prize Winners in Economics: Mainline vs. Mainstream”\n Colander, 2015, “Intellectual Incest on the Charles: Why Economists are a little bit off”\n Cawley, 2018, “A Guide and Advice for Economists on the U.S. Junior Academic Job Market, 2018-2019 Edition”\n Heckman and Moktan, 2020, “Publishing and Promotion in Economics: The Tyranny of the Top Five”\n\nPlease note going forward, the lesson numbers and topics (e.g. 1.1) on this website are my design, and will not match up with the textbook!"
   },
   {
     "objectID": "content/1.1-content.html#slides",
     "href": "content/1.1-content.html#slides",
     "title": "1.1 — Introduction and Overview — Class Content",
     "section": " Slides",
-    "text": "Slides\nBelow, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. Note while in going through the slides, you can type h to see a special list of viewing options, and type o for an outline view of all the slides.\nThe lower button will allow you to download a PDF version of the slides. I suggest printing the slides beforehand and using them to take additional notes in class (not everything is in the slides)!\n\n\n\n\n Download as PDF"
-  },
-  {
-    "objectID": "content/1.1-content.html#assignments",
-    "href": "content/1.1-content.html#assignments",
-    "title": "1.1 — Introduction and Overview — Class Content",
-    "section": " Assignments",
-    "text": "Assignments\n\nPreliminary Statistics Survey Due Sunday August 29\nPlease take the preliminary survey on your statistics and software background by 11:59 PM Sunday. This will help us all have a productive semester together."
+    "text": "Slides\nBelow, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.\n\n\n\n\n\n\nTip\n\n\n\nYou can type h to see a special list of viewing options, and type o for an outline view of all the slides.\n\n\nI suggest printing the slides beforehand and using them to take additional notes in class (not everything is in the slides)!\n\n\n\n\n Download as PDF"
   },
   {
     "objectID": "content/index.html",
@@ -81,7 +74,7 @@
     "href": "index.html",
     "title": "ECON 452 — History of Economic Thought",
     "section": "",
-    "text": "Instructor\n\n   Dr. Ryan Safner\n   114 Rosenstock\n   safner@hood.edu\n   ryansafner\n\n\n\nCourse details\n\n   TuTh\n   Aug 22—Dec 13, 2022\n   2:00—3:25 PM\n   Rosenstock 101\n   Slack\n\n\n\nContacting me\nEmail."
+    "text": "Instructor\n\n   Dr. Ryan Safner\n   114 Rosenstock\n   Office Hours: MW 1:30-2:30PM\n   safner@hood.edu\n\n\n\nCourse details\n\n   TuTh 2:00—3:25 PM\n   Rosenstock 101\n   Aug 22—Dec 13, 2022\n   Slack"
   },
   {
     "objectID": "news.html",
@@ -137,28 +130,14 @@
     "href": "syllabus.html",
     "title": "Syllabus",
     "section": "",
-    "text": "Dr. Ryan Safner\n   114 Rosenstock\n   safner@hood.edu\n   ryansafner\n   Schedule an appointment\n\n\n\n\n\n   TuTh\n   Aug 22—Dec 13, 2022\n   2:00—3:25 PM\n   Rosenstock 101\n   Slack\n\n\n\n\nEmail.\nEconometrics is the application of statistical tools to quantify and measure economic relationships in the real world. It uses real data to test economic hypotheses, quantitatively estimate causal relationships between economic variables, and to make forecasts of future events. The primary tool that economists use for empirical analysis is ordinary least squares (OLS) linear regression, so the majority of this course will focus on understanding, applying, and extending OLS regressions.\nI assume you have some working knowledge of economics at the intermediate level and some basic statistical tools.The formal prerequisites for this course are ECON 205 and ECON 206; ECMG 212 or MATH 112; and ECON 305 or ECON 306. We will do some basic review of some necessary statistics and probability at the beginning until everyone is comfortable, before jumping right into regressions."
+    "text": "Dr. Ryan Safner\n   114 Rosenstock\n   Office Hours: MW 1:30-2:30PM\n   safner@hood.edu\n\n\n\n\n\n   TuTh 2:00—3:25 PM\n   Rosenstock 101\n   Aug 22—Dec 13, 2022\n   Slack\nDownload PDF\n— Quoted ironically in James M. Buchanan, 1964, “What Should Economists Do?”\nThe History of Economic Thought explores the development of economic principles and tools and the major economic thinkers to explain why the discipline and practice of economics looks the way it does today. By studying principles and intermediate micro- and macro-economics, you may get the impression that economics is a complete system of agreed-upon scientific laws to be applied individuals or the economy for understanding and recommending policy. This course will strip away that belief and get you to see that what is accepted as mainstream economics both has evolved considerably over the past 250 years and continues to be contested to this day. While there is much consensus, there continues to be much debate as to what economics is, what it is about, what are the best methods to study it, what are the policy implications, and what does it tell us about the world. The best way to understand these debates and to take a position is to understand the history of economic thought: how ideas of various thinkers and schools of thought were slowly incorporated into the mainstream of economics, marginalized as heterodox, or completely discarded; and how this process has changed many times.\nWe will read famous texts by the major thinkers - Smith, Ricardo, Malthus, Marx, Mill, Keynes - explore the key insights and development of concepts and models from different schools of thought - mercantilist, classical, Marxist, neoclassical, Austrian, institutional, Keynesian, New- and Post-Keynesian, etc - and place developments and ideas into historical context. As a one-semester course, we must inevitably leave out many major thinkers, ideas, and debates in the history of economic thought. If you have a particular interest that we do not cover, consider this an ideal topic for a research paper.\nMuch of this course will examine the history of how modern economic doctrine evolved, and this assumes that you have familiarity with modern economic theory at the intermediate level. As such, the prerequisites for this course are ECON 305 - Macroeconomic Analysis and ECON 306 - Microeconomic Analysis.\nAs a 400-level course required for all economics majors, this course is intended to be an upper-level seminar to enrich your understanding of economics beyond the theoretical tools you have already learned. This implies a significant amount of reading, writing, and discussing, on your part, requiring you to take ownership of your own learning. Against my strong instincts to lecture, this class will primarily be discussion-based and focused heavily on required readings for each meeting."
   },
   {
     "objectID": "syllabus.html#books",
     "href": "syllabus.html#books",
     "title": "Syllabus",
     "section": "Books",
-    "text": "Books\nThe following book is required and will be available from the campus bookstore. (You are not obligated to buy it, I just strongly recommend it in the sense that you will still have access to all data and assignments without possessing the book. But this is a course where you really will want to understand the derivations or get additional context beyond just my slides…)\n\nBailey, Michael A, 2019, Real Econometrics, New York: Oxford University Press, 2nd ed.\n\nYou are welcome to purchase the book by other means (e.g. Amazon, half.com, etc). I have no financial stake in requiring you to purchase this book. The (cheaper) 1st edition is sufficient, but makes significantly less use of R (in favor of STATA).\nThe following two books are recommended, and are free online. (You can purchase a hard copy of the first one if you really want.):\n\nGrolemund, Garrett and Hadley Wickham, R For Data Science\nIsmay, Chester and Albert Y Kim, Modern Dive: Statistical Inference Via Data Science\n\nThe first book is the number one resource for using R and tidyverse, and is written for beginners. I still look at it frequently. The second is another great reference for using tidyverse in the context of basic statistics."
-  },
-  {
-    "objectID": "syllabus.html#articles",
-    "href": "syllabus.html#articles",
-    "title": "Syllabus",
-    "section": "Articles",
-    "text": "Articles\nThroughout the course, I will post both required and supplemental (non-required) readings that enrich your understanding for each topic."
-  },
-  {
-    "objectID": "syllabus.html#software",
-    "href": "syllabus.html#software",
-    "title": "Syllabus",
-    "section": "Software",
-    "text": "Software\nYou are strongly recommended to download copies of R and R Studio on your own computers. These software packages are available on all computers in the trading room, and you will have access to them during the week to work on assignments.\nWe will also have a shared class workspace in RStudio.cloud that runs a full instance of R Studio in your web browser (so no need to install anything!) will let you access files and assignments."
+    "text": "Books\nOur readings are of two types: (1) primary sources - the famous texts of the writers themselves; and (2) a secondary textbook that will help you interpret the primary sources and place them in the broader context of their day and in the evolution of economic thought.\nPrimary Sources:\n\nMedema, Steven G and Warren J Samuels, eds., 2013, The History of Economic Thought: A Reader, 2nd ed., New York: Routledge\n\nSecondary Textbook:\nYou must purchase a secondary textbook, but I will give you an option to choose one. I will be drawing from both books in my lectures.\n\nLandreth, Harry and David C Colander, 2002, History of Economic Thought, 4th ed., Boston: Houghton Mifflin Company\nBlaug, Mark, 1996, Economic Theory in Retrospect, 5th ed., New York: Cambridge University Press\n\nI intended on requiring Landreth and Colander (2002), but I was sad to find that it is out of print. As such, I was unable to get it via Hood’s bookstore. There should be used copies on Amazon for a somewhat reasonable price (it has been fluctuating between $20-$100). I strongly recommend this book because it is easier to read, focuses more on historical context and big ideas than getting lost in the math/models, and has more robust coverage of different schools of thought (including heterodox) and extends right up to the present day.\nBlaug (1996) is also an excellent book, but is a bit more advanced, focusing on fewer thinkers, and focusing in detail on their contributions to modern economic theory (i.e. models and math) with very little discussion of historical context. I would say get Blaug only if you are unable to get Landreth and Colander for a reasonable price (or at all).\nDo not purchase both books!"
   },
   {
     "objectID": "syllabus.html#attendence",

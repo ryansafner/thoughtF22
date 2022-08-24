@@ -37,6 +37,8 @@ website:
           contents: 
             - text: "1.1 — Introduction and Overview"
               href: content/1.1-content.qmd
+            - text: "1.2 — What Exactly is Economics?"
+              href: content/1.2-content.qmd
               
     - title: "Assignments"
       style: "docked"

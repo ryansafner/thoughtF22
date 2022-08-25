@@ -30,7 +30,7 @@ This week we will be covering elements of:
 
 Other helpful readings:
 
-- [<i class="fas fa-file-pdf"></i> Buchanan, 1964, “What Should Economists Do?”](/files/readings/McCloskey-1998.pdf)
+- [<i class="fas fa-file-pdf"></i> Buchanan, 1964, “What Should Economists Do?”](/files/readings/Buchanan-1964.pdf)
 - [<i class="fas fa-file-pdf"></i> Blaug, 1975, "Kuhn versus Lakatos, or paradigms versus research programmes in the history of economics"](/files/readings/Blaug-1975.pdf)
 - [<i class="fas fa-file-pdf"></i> McCloskey, 1998, *The Rhetoric of Economics* pp.20-28](/files/readings/McCloskey-1998.pdf)
 

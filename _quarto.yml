@@ -39,6 +39,10 @@ website:
               href: content/1.1-content.qmd
             - text: "1.2 — What Exactly is Economics?"
               href: content/1.2-content.qmd
+            - text: "1.3 — Ancient Writers (Mostly Greek)"
+              href: content/1.3-content.qmd
+            - text: "1.4 — Medieval Religious Writers"
+              href: content/1.4-content.qmd
               
     - title: "Assignments"
       style: "docked"

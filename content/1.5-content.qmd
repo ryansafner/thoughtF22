@@ -1,0 +1,69 @@
+---
+title: "1.5 — Mercantilism — Class Content"
+---
+
+```{r, echo = F}
+source(here::here("slides", "slide-links.R"))
+```
+
+::: {.callout-note appearance="minimal"}
+# Meeting Dates
+
+*Tuesday, September 6, 2022*
+:::
+
+## <i class="fas fa-info-circle fa-lg"></i> Overview
+
+We are entering the era of mercantilism, and will spend at least a week in this era before we get to the Classical economists. There are a lot of well-develoepd writings from a lot of well-known thinkers of this era. Since we will not be lingering long, there is a lot of reading in a short amount of time. Thus, it's most important that you read the *secondary* textbook, and in the *Reader*, read the biographies of Mun, Petty, and Mandeville, and then *skim* each of their writings to get a feel for what they are interested in and how they discuss it. 
+
+## <i class="fas fa-book-reader fa-lg"></i> Readings
+
+### Required Readings
+
+- <i class="fas fas fa-book"></i> Thomas Mun, William Petty, Bernard de Mandeville^[Yes, this is a little out of order] & *skim* each's writings in *Reader*
+- <i class="fas fas fa-book"></i> Ch.3 Early Preclassical Economic Thought up through Physiocracy (p.56) in Landreth & Colander
+- <i class="fas fas fa-book"></i> Ch.1 Pre-Adamite Economics up through Physiocracy (p.24) in Blaug
+
+Blaug unfortunately does not cover anything before mercantilism & the physiocrats.
+
+### Recommended Readings:
+
+The following Wikipedia entries can also provide more background on these writers and their famous works:
+
+- [<i class="fab fa-wikipedia-w"></i> Mercantilism](https://en.wikipedia.org/wiki/Mercantilism)
+- [<i class="fab fa-wikipedia-w"></i> Thomas Mun](https://en.wikipedia.org/wiki/Thomas_Mun)
+- [<i class="fab fa-wikipedia-w"></i> William Petty](https://en.wikipedia.org/wiki/William_Petty)
+- [<i class="fab fa-wikipedia-w"></i> Bernard Mandeville](https://en.wikipedia.org/wiki/Bernard_Mandeville)
+
+### Questions to Help Your Reading
+
+- *Who* are the mercantlists, and why are they writing?
+- What are the mercantilists interested in?
+- What are the policy prescriptions of the mercantilists?
+- How do the mercantlists view human nature?
+- What is the role of government according to the mercantilists?
+- What aspects of mercantilism are still present today?
+- What does modern economics think of mercantilist ideas?
+
+## <i class="fas fa-chalkboard-teacher"></i> Slides
+
+Below, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.
+
+::: callout-tip
+You can type <kbd>h</kbd> to see a special list of viewing options, and type <kbd>o</kbd> for an outline view of all the slides.
+:::
+
+I suggest printing the slides beforehand and using them to take additional notes in class (*not everything* is in the slides)!
+
+```{r}
+#| echo: false
+#| output: asis
+
+slide_links("1.5-slides")
+```
+
+## <i class="fas fa-laptop-code"></i> Assignments
+
+### Participation/Discussion Board Posts Due 8 PM Fri Sep 9
+
+This week's graded discussion is worth 5 points, and can be a combination of discussion in class, and/or posts on the Blackboard Discussion Board by 8 PM this Friday September 9.

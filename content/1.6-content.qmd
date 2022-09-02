@@ -1,0 +1,80 @@
+---
+title: "1.6 — Political Revolution — Class Content"
+---
+
+```{r, echo = F}
+source(here::here("slides", "slide-links.R"))
+```
+
+::: {.callout-note appearance="minimal"}
+# Meeting Dates
+
+*Thursday, September 8, 2022*
+:::
+
+## <i class="fas fa-info-circle fa-lg"></i> Overview
+
+We begin with a deep dive to a major point of departure in the Western liberal political philosophy canon. Thomas Hobbes is often invoked as the first explicit originator of the a social contract theory of the State. Writing during the English Civil War - the ultimate result of which would set the Western world on a path towards liberal democracy, constitutional republics, and the industrial revolution - Hobbes is famous for his bleak view of the state of nature (a hypothetical society without government). He is often noted as a supporter of a strong State, whom he saw as an absolute monarch, as the solution to this problem. Hobbes is often written off quickly in political philosophy, as a predecessor to the more celebrated John Locke, the clear inspiration fo the U.S. Declaration of Independence and many modern ideas. However, Hobbes provides both deep analytical insight to the nature of the problem (which can be recast in modern game theory terms), as well as a clear break from Ancient political philosophy. We will read selections from Hobbes’ famous 1651 book, Leviathan. 
+
+The famous counterweight/improvement to Hobbes’ 1651 *Leviathan* is John Locke’s 1689 *Second Treatise on Government.* Both Locke and Hobbes consider the State as a social contract rational individuals construct to escape the state of nature. In contrast to Hobbes, Locke sees humanity as far more sociable in the state of nature, able to make cooperative agreements, discover, and apply “the laws of nature.” Yet, creating a civil government improves on what he sees as the three “inconveniences” of anarchy. Most importantly, Locke famously arguers that the ultimate aim of the State is to protect individual property rights.
+
+## <i class="fas fa-book-reader fa-lg"></i> Readings
+
+### Required Readings
+
+- <i class="fas fas fa-book"></i> John Locke & his writings in *Reader*
+- [<i class="fas fas fa-file-pdf"></i> Hobbes (1651) - Selections from *Leviathan*](https://publics22.classes.ryansafner.com/readings/Hobbes-1651.pdf)
+
+#### If You Hadn't Yet
+
+- <i class="fas fas fa-book"></i> Ch.3 Early Preclassical Economic Thought up through Physiocracy (p.56) in Landreth & Colander
+- <i class="fas fas fa-book"></i> Ch.1 Pre-Adamite Economics up through Physiocracy (p.24) in Blaug
+
+### Recommended Readings:
+
+As a historical aside: Here's a good clip setting the tension between King and Parliament at the start of the Civil Wars. King Charles I storms the House of Commons (Jan 4, 1629)^[By the way, because of this historic event, the only person in the world never allowed in the House of Commons is Queen Elizabeth II (whomever the current monarch is)!] in the 1970 movie *Cromwell*:^[And yes, that's Obi-Wan Kenobi as King Charles and the original Dumbledore as Oliver Cromwell.]
+
+<iframe width="980" height="550" src="https://www.youtube.com/embed/FFkKm_4FOFE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+The following Wikipedia entries can also provide more background on these writers and their famous works:
+
+- [<i class="fas fas fa-file-pdf"></i> Machiavelli (1532), Selections from *The Price*](https://publics20.classes.ryansafner.com/readings/Machiavelli-1532.pdf)
+- [<i class="fab fa-wikipedia-w"></i> Thomas Hobbes](https://en.wikipedia.org/wiki/Thomas_Hobbes)
+- [<i class="fab fa-wikipedia-w"></i> John Locke](https://en.wikipedia.org/wiki/John_Locke)
+- [<i class="fab fa-wikipedia-w"></i> English Civil Wars](https://en.wikipedia.org/wiki/English_Civil_Wars)
+- [<i class="fab fa-wikipedia-w"></i> Glorious Revolution](https://en.wikipedia.org/wiki/Glorious_Revolution)
+
+### Questions to Help Your Reading
+
+- What does Hobbes have to say about an “ultimate good” or “ultimate goal” for humanity?
+- Is Hobbes a subjectivist in terms of value and human choice?
+- What’s the problem with everyone having equal power and limitations?
+- When is it in an individual’s interest to limit themselves?
+- What is the origin of the State or Commonwealth?
+- How would you consider Hobbes’ analysis in terms of game theory? A prisoners’ dilemma? A stag hunt?
+- What is the origin of property, according to Locke?
+- Compare and contrast Hobbes' and Locke's view of the state of nature.
+- What are the three inconveniences of anarchy, according to Locke?
+- What is the role of money, according to Locke? What happens if money increases in supply?
+## <i class="fas fa-chalkboard-teacher"></i> Slides
+
+Below, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.
+
+::: callout-tip
+You can type <kbd>h</kbd> to see a special list of viewing options, and type <kbd>o</kbd> for an outline view of all the slides.
+:::
+
+I suggest printing the slides beforehand and using them to take additional notes in class (*not everything* is in the slides)!
+
+```{r}
+#| echo: false
+#| output: asis
+
+slide_links("1.6-slides")
+```
+
+## <i class="fas fa-laptop-code"></i> Assignments
+
+### Participation/Discussion Board Posts Due 8 PM Fri Sep 9
+
+This week's graded discussion is worth 5 points, and can be a combination of discussion in class, and/or posts on the Blackboard Discussion Board by 8 PM this Friday September 9.

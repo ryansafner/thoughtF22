@@ -413,7 +413,6 @@ Share prices of the South Sea Company
 - Sudden collapse wiped out the wealth of a generation in England
 
 - Parliament passed the .hi-purple[Bubble Act] in 1719, prohibited formation of a joint-stock company without a royal charter
-  - Various public choice arguments behind this 
   - Later repealed in 1825
 
 ]

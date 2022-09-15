@@ -17,3 +17,9 @@ We will run a tournament for “the most interesting economist in history.” Ea
 Once we complete an era, we will hold the votes in head-to-head matchups between economists. Your assignment is to write up a short explanation behind your vote (1-3 sentences) between each pair. This will allow you to remember and place each thinker in the context of the history of economic thought.
 
 Your grade for each round of votes that requires explanations (not every round will require explanation) will be out of 5 points, and you will be graded on your reasoning for your votes. Your average grade for your explanations across all of the rounds (out of 100%) will constitute 10% of your final course grade.
+
+## Current Status:
+
+### Pre-Classical Division
+
+![](../images/tournament-division-1-round-1.png)

@@ -47,7 +47,14 @@ website:
               href: content/1.5-content.qmd
             - text: "1.6 — Political Revolution"
               href: content/1.6-content.qmd
-              
+            - text: "1.7 — Cantillon, Physiocrats, & Turgot"
+              href: content/1.7-content.qmd
+        - section: "II. Classical Economics (c.1750-1870)"
+          contents:
+            - text: "2.1 — David Hume and Adam Smith the Philosopher"
+              href: content/2.1-content.qmd
+            - text: "2.2 — Adam Smith and the Classical System"
+              href: content/2.2-content.qmd
     - title: "Assignments"
       style: "docked"
       search: false

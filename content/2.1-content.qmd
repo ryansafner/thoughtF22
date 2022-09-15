@@ -1,0 +1,65 @@
+---
+title: "2.1 — David Hume and Adam Smith the Philosopher — Class Content"
+---
+
+```{r, echo = F}
+source(here::here("slides", "slide-links.R"))
+```
+
+::: {.callout-note appearance="minimal"}
+# Meeting Dates
+
+*Tuesday, September 20, 2022*
+:::
+
+## <i class="fas fa-info-circle fa-lg"></i> Overview
+
+Today we discuss Hume and begin Smith.
+
+## <i class="fas fa-book-reader fa-lg"></i> Readings
+
+### Required Readings:
+
+- <i class="fas fas fa-book"></i> David Hume, *Political Discourses*, and Adam Smith (but not *WON* yet) in *Reader*
+
+### If You Hadn't Yet:
+- <i class="fas fas fa-book"></i> Start Ch.4 "Adam Smith" in Landreth & Colander
+- <i class="fas fas fa-book"></i> Start Ch.2 "Adam Smith" in Blaug
+
+### Recommended Readings:
+
+The following Wikipedia entries can also provide more background on these writers and their famous works:
+
+- [<i class="fas fa-podcast"></i> *Econtalk*: Dennis Rasmussen on Hume and Smith and The Infidel and the Professor](https://www.econtalk.org/dennis-rasmussen-on-hume-and-smith-and-the-infidel-and-the-professor/)
+- [<i class="fas fa-podcast"></i> *Econtalk*: Russ Roberts and Mike Munger on How Adam Smith Can Change Your Life](https://www.econtalk.org/dennis-rasmussen-on-hume-and-smith-and-the-infidel-and-the-professor/)
+- [<i class="fas fas fa-book"></i> Roberts, *How Adam Smith Can Change Your Life: An Unexpected Guide to Human Nature and Happiness*](https://www.amazon.com/gp/product/1591847958)
+- [<i class="fab fa-wikipedia-w"></i> David Hume](https://en.wikipedia.org/wiki/David_Hume)
+- [<i class="fab fa-wikipedia-w"></i> Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith)
+- [<i class="fab fa-wikipedia-w"></i> Theory of Moral Sentiments](https://en.wikipedia.org/wiki/The_Theory_of_Moral_Sentiments)
+
+## <i class="fas fa-chalkboard-teacher"></i> Slides
+
+Below, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.
+
+::: callout-tip
+You can type <kbd>h</kbd> to see a special list of viewing options, and type <kbd>o</kbd> for an outline view of all the slides.
+:::
+
+I suggest printing the slides beforehand and using them to take additional notes in class (*not everything* is in the slides)!
+
+```{r}
+#| echo: false
+#| output: asis
+
+slide_links("2.1-slides")
+```
+
+## <i class="fas fa-laptop-code"></i> Assignments
+
+### Participation/Discussion Board Posts Due 8 PM Fri Sep 23
+
+This week's graded discussion is worth 5 points, and can be a combination of discussion in class, and/or posts on the Blackboard Discussion Board by 8 PM this Friday September 23.
+
+## Tournament Votes
+
+The first round of the Pre-Classical division of the "Most Interesting Economist in History" tournament is live. Please post your votes in the discussion board.

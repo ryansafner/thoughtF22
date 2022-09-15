@@ -1,5 +1,5 @@
 ---
-title: "1.7 — Political Revolution — Class Content"
+title: "1.7 — Cantillon, Physiocrats, & Turgot — Class Content"
 ---
 
 ```{r, echo = F}
@@ -72,3 +72,7 @@ slide_links("1.7-slides")
 ### Participation/Discussion Board Posts Due 8 PM Fri Sep 16
 
 This week's graded discussion is worth 5 points, and can be a combination of discussion in class, and/or posts on the Blackboard Discussion Board by 8 PM this Friday September 16.
+
+## Tournament Votes
+
+The first round of the Pre-Classical division of the "Most Interesting Economist in History" tournament is live. Please post your votes in the discussion board.

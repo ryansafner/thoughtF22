@@ -1,0 +1,103 @@
+---
+title: "2.2 — Adam Smith & The Classical System — Class Content"
+---
+
+```{r, echo = F}
+source(here::here("slides", "slide-links.R"))
+```
+
+::: {.callout-note appearance="minimal"}
+# Meeting Dates
+
+*Thursday, September 22, 2022*
+:::
+
+## <i class="fas fa-info-circle fa-lg"></i> Overview
+
+Today we continue talking about Adam Smith with an overview of the Classical School of Economics — what generally united them. We also explore Smith and the Classicals' opposition to mercantilism and Smith's account of how Europe escaped feudalism.
+
+## <i class="fas fa-book-reader fa-lg"></i> Readings
+
+### Required Readings:
+
+- <i class="fas fas fa-book"></i> Adam Smith's *Wealth of Nations*: Book IV excerpts in *Reader* (pp.165-179)
+
+### If You Hadn't Yet:
+- <i class="fas fas fa-book"></i> Ch.4 "Adam Smith" in Landreth & Colander
+- <i class="fas fas fa-book"></i> Ch.2 "Adam Smith" in Blaug
+
+Though he is admittedly long-winded and lapses between theoretical statements, historical examples, and analogies or current events from the 18^th^ century, Adam Smith is quite easy and entertaining to read. Any educated person should read Smith, and, if you are interested in economics, **you should read as much Smith as you can get your hands on.** *Everything* is there (in some form).
+
+Today we will focus primarily on understanding the system of the Classical Economics (so a bit of foreshadowing), as well as Smith's refutation of mercantilism and physiocracy. As such, in addition to Smith, I will be quoting from Hume and Bastiat regarding their views on mercantilism (see recommended readings below). The quotes from Hume we have already seen. 
+
+The reading for Smith comes primarily from *Book IV: Of the Systems of Political Oeconomy.* These sections are in your *Reader* (p.165-179). I will also be quoting form *Book III* when describing the emergence of commercial society out of feudal society. You can find all of *The Wealth of Nations* online for free here: 
+
+- [<i class="fas fas fa-book"></i> Wealth of Nations (Online)](https://www.econlib.org/library/Smith/smWN.html)
+
+Next class we will dive into more of Smith's analytical insights and the analysis of markets, prices, and economic growth. See the associated readings from *WON* [for next class](/reading/2.3-reading).
+
+### Recommended Readings:
+
+Weingast discusses Adam Smith's Book III on the economic history of Europe in the context of his views on economic development:
+
+- [<i class="fas fas file-pdf"></i> Weingast (2016) - “Adam Smith's Theory of Violence and the Political-Economics of Development”](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2881042)
+
+Below are the readings from Bastiat that I quote. I also make everyone in ECON 306 read (or at least I discuss) Bastiat's broken window parable in “What is Seen and Not Seen”
+
+- [<i class="fa-external-link-square-alt"></i> Bastiat (1845) “The Candlemakers Petition”](http://bastiat.org/en/petition.html)
+- [<i class="fa-external-link-square-alt"></i> Bastiat (1850) “The Balance of Trade”](https://www.econlib.org/library/Bastiat/basEss.html?chapter_num=16#book-reader)
+- <i class="fas fa-external-link-square-alt"></i> Bastiat, 1848 [“What is Seen and Not Seen”](https://www.econlib.org/library/Bastiat/basEss.html?chapter_num=4#book-reader), (Section 1)
+
+As I mentioned in class, you might find [How the Dismal Science Got its Name](https://www.econlib.org/library/Columns/LevyPeartdismal.html) insightful and surprising. It is a 6 part series of blog posts based on research by David Levy & Sandra Peart.
+- [Part I](https://www.econlib.org/library/Columns/LevyPeartdismal.html)
+- [Part II](https://www.econlib.org/library/Columns/LevyPeartdismal2.html)
+- [Part III](https://www.econlib.org/library/Columns/LevyPeartdismal3.html)
+- [Part IV](https://www.econlib.org/library/Columns/LevyPeartdismal4.html)
+- [Part V](https://www.econlib.org/library/Columns/LevyPeartdismal5.html)
+- [Part VI](https://www.econlib.org/library/Columns/LevyPeartdismal6.html)
+
+The following Wikipedia entries can also provide more background on these writers and their famous works:
+
+- [<i class="fab fa-wikipedia-w"></i> Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith)
+- [<i class="fab fa-wikipedia-w"></i> The Wealth of Nations](https://en.wikipedia.org/wiki/The_Wealth_of_Nations)
+
+
+### Questions to Help Your Reading
+
+Book III
+
+- How did Europe escape feudalism and emerge a “commercial society”?
+
+Book IV
+
+- What does Smith say about the goal of mercantilism?
+- What does Smith say is the goal of all economic activity?
+- What does Smith say about the “balance of trade” doctrine?
+- What does Smith think of Quesnay and the physiocrats?
+- What is the “obvious and simple system of natural liberty?” What duties does Smith believe the government has?
+## <i class="fas fa-chalkboard-teacher"></i> Slides
+
+Below, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.
+
+::: callout-tip
+You can type <kbd>h</kbd> to see a special list of viewing options, and type <kbd>o</kbd> for an outline view of all the slides.
+:::
+
+I suggest printing the slides beforehand and using them to take additional notes in class (*not everything* is in the slides)!
+
+```{r}
+#| echo: false
+#| output: asis
+
+slide_links("2.2-slides")
+```
+
+## <i class="fas fa-laptop-code"></i> Assignments
+
+### Participation/Discussion Board Posts Due 8 PM Fri Sep 23
+
+This week's graded discussion is worth 5 points, and can be a combination of discussion in class, and/or posts on the Blackboard Discussion Board by 8 PM this Friday September 23.
+
+## Tournament Votes
+
+The first round of the Pre-Classical division of the "Most Interesting Economist in History" tournament is live. Please post your votes in the discussion board.

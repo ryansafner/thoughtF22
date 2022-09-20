@@ -37,6 +37,15 @@ The following Wikipedia entries can also provide more background on these writer
 - [<i class="fab fa-wikipedia-w"></i> Adam Smith](https://en.wikipedia.org/wiki/Adam_Smith)
 - [<i class="fab fa-wikipedia-w"></i> Theory of Moral Sentiments](https://en.wikipedia.org/wiki/The_Theory_of_Moral_Sentiments)
 
+### Questions to Help Your Reading
+
+- Is David Hume a mercantilist, a Classical economist, or some mix? (Your textbooks seem to disagree!)
+- What do Hume and Smith mean by "sentiments?"
+- How does Hume approach money? In what ways is his quantity theory of money similar to, and different from, John Locke's?
+- What is Hume's "price-specie flow mechanism"? How does this connect with a gold standard (or similar commodity-based money)?
+- How does Hume criticize mercantilism?
+- According to Hume, where does interest come from, and how are interest rates determined? Is it based on the money supply, as some mercantilists supposed?
+
 ## <i class="fas fa-chalkboard-teacher"></i> Slides
 
 Below, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.

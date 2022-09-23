@@ -53,8 +53,12 @@ website:
           contents:
             - text: "2.1 — David Hume and Adam Smith the Philosopher"
               href: content/2.1-content.qmd
-            - text: "2.2 — Adam Smith and the Classical System"
+            - text: "2.2 — Smith and the Classical System"
               href: content/2.2-content.qmd
+            - text: "2.3 — Smithean Price Theory and Economic Growth"
+              href: content/2.3-content.qmd
+            - text: "2.4 — Thomas Malthus and the Population Principle"
+              href: content/2.4-content.qmd
     - title: "Assignments"
       style: "docked"
       search: false

@@ -1,5 +1,7 @@
 ---
 title: "1.5 — Mercantilism — Class Content"
+execute:
+  freeze: auto
 ---
 
 ```{r, echo = F}

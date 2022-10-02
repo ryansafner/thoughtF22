@@ -1,5 +1,7 @@
 ---
 title: "1.4 — Medieval Religious Writers — Class Content"
+execute:
+  freeze: auto
 ---
 
 ```{r, echo = F}

@@ -1,5 +1,7 @@
 ---
 title: "2.2 — Adam Smith & The Classical System — Class Content"
+execute:
+  freeze: auto
 ---
 
 ```{r, echo = F}

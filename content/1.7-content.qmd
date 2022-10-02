@@ -1,5 +1,7 @@
 ---
 title: "1.7 — Cantillon, Physiocrats, & Turgot — Class Content"
+execute:
+  freeze: auto
 ---
 
 ```{r, echo = F}

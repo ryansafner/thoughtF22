@@ -1,5 +1,7 @@
 ---
 title: "1.3 — Ancient Writers (Mostly Greek) — Class Content"
+execute:
+  freeze: auto
 ---
 
 ```{r, echo = F}

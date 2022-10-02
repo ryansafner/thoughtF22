@@ -59,6 +59,10 @@ website:
               href: content/2.3-content.qmd
             - text: "2.4 — Thomas Malthus and the Population Principle"
               href: content/2.4-content.qmd
+            - text: "2.5 — Ricardo and Rent"
+              href: content/2.5-content.qmd
+            - text: "2.6 — Classical Macroeconomics & Say's Law Debate"
+              href: content/2.6-content.qmd
     - title: "Assignments"
       style: "docked"
       search: false
@@ -69,6 +73,8 @@ website:
           href: assignments/participation.qmd
         - text: "Tournament"
           href: assignments/tournament.qmd
+        - text: "Term Paper"
+          href: assignments/term-paper.qmd
 
   page-footer:
     left: |

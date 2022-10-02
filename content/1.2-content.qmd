@@ -1,5 +1,7 @@
 ---
 title: "1.2 — What Exactly is Economics? — Class Content"
+execute:
+  freeze: auto
 ---
 
 ```{r, echo = F}

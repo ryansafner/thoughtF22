@@ -1,5 +1,7 @@
 ---
 title: "2.3 — Smithean Price Theory & Economic Growth — Class Content"
+execute:
+  freeze: auto
 ---
 
 ```{r, echo = F}

@@ -1,5 +1,7 @@
 ---
 title: "1.6 — Political Revolution — Class Content"
+execute:
+  freeze: auto
 ---
 
 ```{r, echo = F}

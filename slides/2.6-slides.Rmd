@@ -300,15 +300,14 @@ ap=function(x){10-0.5*x}
 base<-ggplot(data = tibble(x = 1:10))+
   aes(x=x)+
   stat_function(fun = mp, geom = "line", size = 2, color = "blue")+
-  geom_label(x = 8, y = mp(8), color = "blue", label = expression(MP[LK]))+
+  geom_label(x = 9, y = mp(9), color = "blue", label = expression(MP[LK]))+
   #stat_function(fun = ap, geom = "line", size = 2, color = "orange")+
   # geom_label(x = 8, y = ap(8), color = "orange", label = expression(AP[LK]))+
-  scale_x_continuous(breaks = c(0,5),
-                     labels = c(0, "x"),
+  scale_x_continuous(breaks = c(0),
                      limits = c(0,15),
                      expand = c(0,0))+
-  scale_y_continuous(breaks = c(0,2,5,10),
-                     labels = c(0,"w","MP(x)", "MP(0)"),
+  scale_y_continuous(breaks = c(0, 10),
+                     labels = c(0,"MP(0)"),
                      limits = c(0,11),
                      expand = c(0,0))+
   labs(x = "Variable Input (Doses of K+L)",
@@ -331,15 +330,24 @@ base
 - Assume demand for corn is perfectly inelastic (function of population only)
   - as soon as we know population, output of corn determined
 
-- Total product = sum of marginal products (area under MP curve)
+- Total product = sum of marginal products (area under $MP_{LK}$ curve)
 ]
 
 .pull-right[
 ```{r}
-
 base+
+  scale_x_continuous(breaks = c(0,5),
+                     labels = c(0, "x"),
+                     limits = c(0,15),
+                     expand = c(0,0))+
+  scale_y_continuous(breaks = c(0,5,10),
+                     labels = c(0,"MP(x)", "MP(0)"),
+                     limits = c(0,11),
+                     expand = c(0,0))+
   geom_segment(x = 0, y = 5, xend = 5, yend = 5, size = 1, linetype = "dashed")+
-  geom_segment(x = 5, y = 5, xend = 5, yend = 0, size = 1, linetype = "dashed")
+  geom_segment(x = 5, y = 5, xend = 5, yend = 0, size = 1, linetype = "dashed")+
+  geom_rect(xmin = 0, xmax = 5, ymin = 0, ymax = 5, fill = "blue", alpha = 0.05)+
+  geom_text(x = 2.5, y = 2.5, label = "TP(x)", color = "white")
 
 ```
 ]
@@ -363,9 +371,64 @@ base+
 .pull-right[
 ```{r}
 base+
+  scale_x_continuous(breaks = c(0,5),
+                     labels = c(0, "x"),
+                     limits = c(0,15),
+                     expand = c(0,0))+
+  scale_y_continuous(breaks = c(0,5,10),
+                     labels = c(0,"MP(x)", "MP(0)"),
+                     limits = c(0,11),
+                     expand = c(0,0))+
   geom_segment(x = 0, y = 5, xend = 5, yend = 5, size = 1, linetype = "dashed")+
   geom_segment(x = 5, y = 5, xend = 5, yend = 0, size = 1, linetype = "dashed")
 
+```
+]
+
+---
+
+# Functional Distribution of Income
+
+.pull-left[
+.smallest[
+
+- Marginal product of $x^{th}$ dose, $MP_x$, then divided between capital and labor
+  - The .red[“wages fund”], paid out of the earnings of capital, goes to workers
+  - Subsistence wage (w) determined by Malthusian population principle
+  - Remaining MP goes to capital owners as .green[profit]
+
+]
+
+]
+
+.pull-right[
+```{r}
+rent_tri<-tribble(
+  ~x, ~y,
+  0, 5,
+  0, 10,
+  5, 5
+)
+
+base+
+  geom_rect(xmin = 0, ymin = 0, xmax = 5, ymax = 2, fill = "red", alpha = 0.3)+
+  geom_label(x = 2.5, y = 1, color = "red", label = "Wages")+
+  geom_rect(xmin = 0, ymin = 2, xmax = 5, ymax = 5, fill = "green", alpha = 0.3)+
+  geom_label(x = 2.5, y = 3.5, color = "green", label = "Profit")+
+  geom_segment(x = 0, y = 5, xend = 5, yend = 5, size = 1, linetype = "dashed")+
+  geom_segment(x = 5, y = 5, xend = 5, yend = 0, size = 1, linetype = "dashed")+
+  
+  # wage fund
+  geom_segment(x = 0, y = 2, xend = 15, yend = 2, size = 1, linetype = "dashed")+
+  geom_label(x = 12, y = 2, label = "Subsistence Wage")+
+    scale_x_continuous(breaks = c(0,5),
+                     labels = c(0, "x"),
+                     limits = c(0,15),
+                     expand = c(0,0))+
+  scale_y_continuous(breaks = c(0,2, 5,10),
+                     labels = c(0,"w", "MP(x)", "MP(0)"),
+                     limits = c(0,11),
+                     expand = c(0,0))
 ```
 ]
 
@@ -408,32 +471,39 @@ base+
   
   # wage fund
   geom_segment(x = 0, y = 2, xend = 15, yend = 2, size = 1, linetype = "dashed")+
-  geom_label(x = 12, y = 2, label = "Subsistence Wage")
-
+  geom_label(x = 12, y = 2, label = "Subsistence Wage")+
+    scale_x_continuous(breaks = c(0,5),
+                     labels = c(0, "x"),
+                     limits = c(0,15),
+                     expand = c(0,0))+
+  scale_y_continuous(breaks = c(0,2, 5,10),
+                     labels = c(0,"w", "MP(x)", "MP(0)"),
+                     limits = c(0,11),
+                     expand = c(0,0))
 ```
 ]
 
 ---
+
 # Functional Distribution: Another (Modern) View
 
 .pull-left[
 .smallest[
 - Another, modern view
 
-- Total product = average product $\times$ quantity of doses (x)
+- Total product = .orange[average product] $\times$ quantity of doses $(x)$
 
-- x doses of K+L produce AP(x) $\times$ x units of output
+- $x$ doses of K+L produce $AP(x) \times x$ units of output
   - Total product is *entire* shaded rectangle
 
-- Marginal product of final dose MP(x) earnings to capital, who pays wages out of wages fund
+- Marginal product of final dose $MP(x)$ earnings to capital, who pays wages out of wages fund
 
-- Rent $=$ difference between average product and marginal product
+- Rent $=$ difference between .orange[average product] and .blue[marginal product]
 ]
 ]
 
 .pull-right[
 ```{r}
-
 base+
   stat_function(fun = ap, geom = "line", size = 2, color = "orange")+
   geom_label(x = 8, y = ap(8), color = "orange", label = expression(AP[LK]))+
@@ -449,12 +519,15 @@ base+
   
   # wage fund
   geom_segment(x = 0, y = 2, xend = 15, yend = 2, size = 1, linetype = "dashed")+
-  geom_label(x = 12, y = 2, label = "Subsistence Wage")
+  geom_label(x = 12, y = 2, label = "Subsistence Wage")+
+  scale_x_continuous(breaks = c(0,5),
+                     labels = c(0, "x"),
+                     limits = c(0,15),
+                     expand = c(0,0))+
   scale_y_continuous(breaks = c(0,2,5, ap(5),10),
                      labels = c(0,"w", "MP(x)", "AP(x)", "MP(0)"),
                      limits = c(0,11),
                      expand = c(0,0))
-
 ```
 ]
 
@@ -494,8 +567,15 @@ base+
   
   # wage fund
   geom_segment(x = 0, y = 2, xend = 15, yend = 2, size = 1, linetype = "dashed")+
-  geom_label(x = 12, y = 2, label = "Subsistence Wage")
-
+  geom_label(x = 12, y = 2, label = "Subsistence Wage")+
+scale_x_continuous(breaks = c(0,5),
+                     labels = c(0, "x"),
+                     limits = c(0,15),
+                     expand = c(0,0))+
+  scale_y_continuous(breaks = c(0,2,5,10),
+                     labels = c(0,"w", "MP(x)", "MP(0)"),
+                     limits = c(0,11),
+                     expand = c(0,0))
 ```
 ]
 

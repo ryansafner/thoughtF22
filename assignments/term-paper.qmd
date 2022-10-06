@@ -1,5 +1,5 @@
 ---
-title: "Participation and Discussion"
+title: "Term Paper"
 execute:
   freeze: auto
 ---
@@ -87,3 +87,19 @@ Here are a few themes that you might consider tracing the evolution of writing o
   - Theory vs. econometrics & empirical work
 
 Note that some may require some additional outside research, and modern readings to supplement what the early writers discussed (or did not discuss).
+
+### Some Titles of Previous Student Papers
+
+- The Idea of Economic Success Throughout History
+- Usury and Interest in Ancient Greece, Rome, Judaism, and Early Christianity
+- Altruism in Economics
+- Revisiting the Efficiency of Slavery
+- Economic Growth and Changes Due to Economic Theory
+- Division of Labor Across Centuries: A Building Block of Modern Economies and Societies
+- The History of International Trade: The Free Trade Debate
+- The Evolution of the Importance of Land in Economics
+- Communal v Private Property: The Debate Through Economic History
+
+Again, you can also see my undergraduate term paper (from 2010) for my undergraduate HET class. Note this is not the paper I would write (or necessarily fully agree with) today.
+
+- [<i class="fas fa-file-pdf"></i> Safner (2010), “The Duality of Say’s Law: A Restoration of J.B. Say’s Original Intentions”](/files/readings/Safner-2010.pdf) 

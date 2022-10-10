@@ -63,6 +63,8 @@ website:
               href: content/2.5-content.qmd
             - text: "2.6 — Classical Macroeconomics & Say's Law Debate"
               href: content/2.6-content.qmd
+            - text: "2.7 — John Stuart Mill and the Decline of Classical Economics"
+              href: content/2.7-content.qmd
     - title: "Assignments"
       style: "docked"
       search: false

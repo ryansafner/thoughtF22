@@ -1,0 +1,79 @@
+---
+title: "2.7 — John Stuart Mill and the Decline of Classical Economics — Class Content"
+execute:
+  freeze: auto
+---
+
+```{r, echo = F}
+source(here::here("slides", "slide-links.R"))
+```
+
+::: {.callout-note appearance="minimal"}
+# Meeting Dates
+
+*Thursday, October 13, 2022*
+:::
+
+## <i class="fas fa-info-circle fa-lg"></i> Overview
+
+Today we cover John Stuart Mill and the "apex" and decline of the Classical School of Economics.
+
+## <i class="fas fa-book-reader fa-lg"></i> Readings
+
+### Required Readings:
+
+- <i class="fas fas fa-book"></i> John Stuart Mill & *Principles of Political Economy* in *Reader*
+- <i class="fas fas fa-book"></i> Ch.6 "John Stuart Mill and the Decline of Classical Economics" in Landreth & Colander
+- <i class="fas fas fa-book"></i> Ch.5 in Blaug
+
+### Recommended Readings:
+
+The following Wikipedia entries can also provide more background:
+
+- [<i class="fab fa-wikipedia-w"></i> John Stuart Mill](https://en.wikipedia.org/wiki/John_Stuart_Mill)
+
+Since I also briefly digress into Henry George, Georgism, and the Single Value tax:
+
+- [<i class="fab fa-wikipedia-w"></i> Wikpedia: Henry George](https://en.wikipedia.org/wiki/Henry_George)
+- [<i class="fab fa-wikipedia-w"></i> Wikpedia: Georgism](https://en.wikipedia.org/wiki/Georgism)
+
+### Questions to Help Your Reading
+
+- What is the proper method of economics, according to Mill?
+
+- What are Mill’s politics?
+
+- What is the difference between production and distribution in Mill’s theory?
+
+- What does Mill think of Say’s Law?
+
+- How does Mill address the criticisms of economics from socialists and other critics of Ricardo?
+
+- How much is Mill a classical economist, and how does he differ from Ricardo?
+
+## <i class="fas fa-chalkboard-teacher"></i> Slides
+
+Below, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.
+
+::: callout-tip
+You can type <kbd>h</kbd> to see a special list of viewing options, and type <kbd>o</kbd> for an outline view of all the slides.
+:::
+
+I suggest printing the slides beforehand and using them to take additional notes in class (*not everything* is in the slides)!
+
+```{r}
+#| echo: false
+#| output: asis
+
+slide_links("2.7-slides")
+```
+
+## <i class="fas fa-laptop-code"></i> Assignments
+
+### Participation/Discussion Board Posts Due 8 PM Fri Oct 14
+
+This week's graded discussion is worth 5 points, and can be a combination of discussion in class, and/or posts on the Blackboard Discussion Board by 8 PM this Friday October 7.
+
+## Tournament Votes
+
+The second round of the Pre-Classical division of the "Most Interesting Economist in History" tournament is live. Please post your votes in the discussion board.

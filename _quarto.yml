@@ -73,10 +73,15 @@ website:
           href: assignments/index.qmd
         - text: "Participation and Discussion"
           href: assignments/participation.qmd
+        - section: "Papers"
+          contents:
+            - text: "Short Paper 1"
+              href: assignments/01-short-paper.qmd
+            - text: "Term Paper"
+              href: assignments/term-paper.qmd
+
         - text: "Tournament"
           href: assignments/tournament.qmd
-        - text: "Term Paper"
-          href: assignments/term-paper.qmd
 
   page-footer:
     left: |

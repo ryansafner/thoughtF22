@@ -36,7 +36,7 @@ update_geom_defaults("label", list(family = "Fira Sans Condensed"))
 
 class: title-slide
 
-# 2.5 — Classical Macro & Say's Law Debate
+# 2.6 — Classical Macro & Say's Law Debate
 
 ## ECON 452 • History of Economic Thought • Fall 2022
 
@@ -1652,14 +1652,81 @@ Jean-Baptiste Say
 
 .pull-left[
 .smallest[
-- Sales *can* be dull with an excess demand for money
+- Sales *in general can* be dull with an **excess demand for money**
+
+
+]
+]
+
+.pull-right[
+```{r}
+m_demand=function(x){4/x}
+
+pp1 <- ggplot(data = tibble(x=1:10),aes(x=x))+
+  stat_function(fun=m_demand, geom="line", size=2, color="blue")+
+  annotate(geom="label",x=4.5,y=m_demand(4.5),color="blue",size=5,label=expression(M^{D}))+
+  geom_vline(xintercept=2, size=2, color="red")+
+  annotate(geom="label",x=2,y=4.5,color="red",size=5,label=expression(M^{S}))+
+  geom_segment(x = 0, y = 1, xend=4, yend= 1, size = 1, linetype = "dashed")+
+  geom_segment(x = 4, y = 1, xend=4, yend=0, size=1, linetype="dotted")+
+  labs(x = "Quantity of Money, M",
+       y = "Value of Money, 1/P",
+       title = "The Market for Cash Balances")+
+  scale_x_continuous(breaks=c(2,4),
+                     labels=c(expression(q[S]),expression(q[D])),
+                     limits=c(0,5),
+                     expand=c(0,0))+
+  scale_y_continuous(breaks = c(1),
+                     labels = c(expression(PPM[1])),
+                     limits=c(0,5),
+                     expand=c(0,0))+
+  theme_classic(base_family = "Fira Sans Condensed", base_size = 14)
+
+pp1 +   annotate("segment", x = 2, xend = 4, y = 1, yend = 1, color = "purple", size=2, alpha=1, arrow=arrow(length=unit(0.5,"cm"), ends="both", type="closed"))+
+    geom_label(x=3,y=1, label="Excess Demand", color = "purple")
+
+
+```
+]
+
+---
+
+
+# Say’s Law and Monetary Disequilibrium
+
+.pull-left[
+.smallest[
+- Sales *in general can* be dull with an **excess demand for money**
 
 - People demand to hold more money (lower exchange value), stop spending money
 
-- Decreased spending depresses sales, lowers price level (P), but raising purchasing power (PPM)
+- Decreased spending depresses sales, lowers price level (P), but raises purchasing power, i.e. .hi-purple[deflation]
 
-- Response:
-  - under gold standard, gold flows in, or people mine more gold (more valuable)
+]
+]
+
+.pull-right[
+```{r}
+pp1+
+  annotate("segment", x = 3.75, xend = 2.25, y = 1.25, yend = 2, color = "purple", size=2, alpha=1, arrow=arrow(length=unit(0.5,"cm"), ends="last", type="closed"))
+```
+]
+
+---
+
+# Say’s Law and Monetary Disequilibrium
+
+.pull-left[
+.smallest[
+- Sales *in general can* be dull with an **excess demand for money**
+
+- People demand to hold more money (lower exchange value), stop spending money
+
+- Decreased spending depresses sales, lowers price level (P), but raises purchasing power, i.e. .hi-purple[deflation]
+
+- Adjustment to new equilibrium with lower price level, higher PPM
+
+- Under gold standard, gold flows in, or people mine more gold (more valuable)
   - under fiat standard ❓❓
 
 ]
@@ -1667,29 +1734,19 @@ Jean-Baptiste Say
 
 .pull-right[
 ```{r}
-m_d = function(x){10-x}
-ggplot(data = tibble(x = 1:10), aes(x =x))+
-  stat_function(fun = m_d, geom = "line", color = "blue", size = 1)+
-  geom_label(x = 2, y =m_d(2), label = "Money Demand", color = "blue")+
-  geom_vline(xintercept = 5, size =2 , color ="red")+
-  geom_label(x = 5, y =9.5, label = "Money Supply", color = "red")+
-  
-  geom_segment(x=0, y=5, xend=5, yend= 5, linetype="dotted")+
-  geom_segment(x=0, y=3, xend=7, yend= 3, linetype="dotted")+
-  geom_segment(x=7, y=3, xend=7, yend=0, linetype="dotted")+
-  labs(x = "Quantity of Money",
-       y = expression(paste("Purchasing Power of Money, ", PPM==frac(1,P))))+
-  scale_x_continuous(breaks = NULL,
-                     limits = c(0,11),
-                     expand = c(0,0))+
-  scale_y_continuous(breaks = c(3,5),
-                     labels = c(expression(hat(PPM)),expression(PPM^{o})),
-                     limits = c(0,11),
-                     expand = c(0,0))+
-  theme_classic(base_family = "Fira Sans Condensed", base_size =14)
+pp1+
+  annotate("segment", x = 3.75, xend = 2.25, y = 1.25, yend = 2, color = "purple", size=2, alpha=1, arrow=arrow(length=unit(0.5,"cm"), ends="last", type="closed"))+
+    geom_segment(x = 0, xend = 2, y = 2, yend = 2, size = 1, linetype = "dotted")+
+  scale_x_continuous(breaks=c(2),
+                     labels=c(expression(q[S]==q[D])),
+                     limits=c(0,5),
+                     expand=c(0,0))+
+  scale_y_continuous(breaks = c(1,2),
+                     labels = c(expression(PPM[1]), expression(PPM[2])),
+                     limits=c(0,5),
+                     expand=c(0,0))
 
 ```
-
 ]
 
 ---

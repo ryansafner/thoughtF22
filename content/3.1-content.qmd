@@ -1,0 +1,64 @@
+---
+title: "3.1 — The Marginalist Revolution, Jevons & Menger — Class Content"
+execute:
+  freeze: auto
+---
+
+```{r, echo = F}
+source(here::here("slides", "slide-links.R"))
+```
+
+::: {.callout-note appearance="minimal"}
+# Meeting Dates
+
+*Thursday, October 20, 2022*
+:::
+
+## <i class="fas fa-info-circle fa-lg"></i> Overview
+
+Today we begin the marginalist revolution that ushered in "neoclassical economics" focused on the idea of marginal utility as the source of prices & value. We will give an overview of the "revolution" and focus on two of the three thinkers: Jevons in Britain and Menger in Austria. We will return to Walras at the end of this unit to focus on his approach to general equilibrium.
+
+## <i class="fas fa-book-reader fa-lg"></i> Readings
+
+### Required Readings
+
+- <i class="fas fas fa-book"></i> William Stanley Jevons, Carl Menger & their wrirings in *Reader*
+- <i class="fas fas fa-book"></i> Ch.8 "Jevons, Menger, and the Foundations of Marginal Analysis" in Landreth & Colander
+- <i class="fas fas fa-book"></i> Ch.6 in Blaug
+
+### Recommended Readings:
+
+The following Wikipedia entries can also provide more background:
+
+- [<i class="fab fa-wikipedia-w"></i> William Stanley Jevons](https://en.wikipedia.org/wiki/William_Stanley_Jevons)
+- [<i class="fab fa-wikipedia-w"></i> Carl Menger](https://en.wikipedia.org/wiki/Carl_Menger)
+
+### Questions to Help Your Reading
+
+
+## <i class="fas fa-chalkboard-teacher"></i> Slides
+
+Below, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.
+
+::: callout-tip
+You can type <kbd>h</kbd> to see a special list of viewing options, and type <kbd>o</kbd> for an outline view of all the slides.
+:::
+
+I suggest printing the slides beforehand and using them to take additional notes in class (*not everything* is in the slides)!
+
+```{r}
+#| echo: false
+#| output: asis
+
+slide_links("3.1-slides")
+```
+
+## <i class="fas fa-laptop-code"></i> Assignments
+
+### Participation/Discussion Board Posts Due 8 PM Fri Oct 21
+
+This week's graded discussion is worth 5 points, and can be a combination of discussion in class, and/or posts on the Blackboard Discussion Board by 8 PM this Friday October 21.
+
+## Tournament Votes
+
+The second round of the Pre-Classical division of the "Most Interesting Economist in History" tournament is live. Please post your votes in the discussion board.

@@ -1,0 +1,16 @@
+{
+  "hash": "f41d230949fca21ed1aa0418c56d3c5b",
+  "result": {
+    "markdown": "---\ntitle: \"3.1 — The Marginalist Revolution, Jevons & Menger — Class Content\"\nexecute:\n  freeze: auto\n---\n\n::: {.cell}\n\n:::\n\n\n::: {.callout-note appearance=\"minimal\"}\n# Meeting Dates\n\n*Thursday, October 20, 2022*\n:::\n\n## <i class=\"fas fa-info-circle fa-lg\"></i> Overview\n\nToday we begin the marginalist revolution that ushered in \"neoclassical economics\" focused on the idea of marginal utility as the source of prices & value. We will give an overview of the \"revolution\" and focus on two of the three thinkers: Jevons in Britain and Menger in Austria. We will return to Walras at the end of this unit to focus on his approach to general equilibrium.\n\n## <i class=\"fas fa-book-reader fa-lg\"></i> Readings\n\n### Required Readings\n\n- <i class=\"fas fas fa-book\"></i> William Stanley Jevons, Carl Menger & their wrirings in *Reader*\n- <i class=\"fas fas fa-book\"></i> Ch.8 \"Jevons, Menger, and the Foundations of Marginal Analysis\" in Landreth & Colander\n- <i class=\"fas fas fa-book\"></i> Ch.6 in Blaug\n\n### Recommended Readings:\n\nThe following Wikipedia entries can also provide more background:\n\n- [<i class=\"fab fa-wikipedia-w\"></i> William Stanley Jevons](https://en.wikipedia.org/wiki/William_Stanley_Jevons)\n- [<i class=\"fab fa-wikipedia-w\"></i> Carl Menger](https://en.wikipedia.org/wiki/Carl_Menger)\n\n### Questions to Help Your Reading\n\n\n## <i class=\"fas fa-chalkboard-teacher\"></i> Slides\n\nBelow, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.\n\n::: callout-tip\nYou can type <kbd>h</kbd> to see a special list of viewing options, and type <kbd>o</kbd> for an outline view of all the slides.\n:::\n\nI suggest printing the slides beforehand and using them to take additional notes in class (*not everything* is in the slides)!\n\n\n<p style=\"text-align:center;\"><a target=\"_blank\" href=\"/slides/3.1-slides.html\"><img src =\"/slides/3.1-slides.png\" alt = \"3.1-slides\"></a></p>\n<p style=\"text-align:center;\"><a class=\"btn btn-primary btn-lg\" target=\"_blank\" href=\"/slides/3.1-slides.pdf\"><i class=\"fas fa-file-pdf\"></i> Download as PDF</a></p>\n\n\n## <i class=\"fas fa-laptop-code\"></i> Assignments\n\n### Participation/Discussion Board Posts Due 8 PM Fri Oct 21\n\nThis week's graded discussion is worth 5 points, and can be a combination of discussion in class, and/or posts on the Blackboard Discussion Board by 8 PM this Friday October 21.\n\n## Tournament Votes\n\nThe second round of the Pre-Classical division of the \"Most Interesting Economist in History\" tournament is live. Please post your votes in the discussion board.\n",
+    "supporting": [
+      "3.1-content_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

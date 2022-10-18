@@ -14,6 +14,12 @@ source(here::here("slides", "slide-links.R"))
 *Tuesday, October 18, 2022*
 :::
 
+::: {.callout-warning appearance="minimal"}
+# Assignments Due
+
+Your [1st short paper](assignments/01-short-paper) on the Classical Era is due Friday October 28 by email.
+:::
+
 ## <i class="fas fa-info-circle fa-lg"></i> Overview
 
 Today we consider the challenges of the industrial revolution on the social fabric of Britain and the European continent: both the liberal revolutions of 1848 and the socialist critiques. We then consider Karl Marx and his economic theory, as well as the politics of Marxian-socialism.

@@ -71,6 +71,10 @@ website:
           contents:
             - text: "3.1 — The Marginalist Revolution: Jevons & Menger"
               href: content/3.1-content.qmd
+            - text: "3.2 — Marginal Productivity Theory"
+              href: content/3.2-content.qmd
+            - text: "3.3 — Capital & Interest Theory"
+              href: content/3.3-content.qmd
     - title: "Assignments"
       style: "docked"
       search: false

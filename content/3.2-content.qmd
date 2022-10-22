@@ -1,0 +1,80 @@
+---
+title: "3.2 — Marginal Productivity Theory — Class Content"
+execute:
+  freeze: auto
+---
+
+```{r, echo = F}
+source(here::here("slides", "slide-links.R"))
+```
+
+::: {.callout-note appearance="minimal"}
+# Meeting Dates
+
+*Tuesday, October 25, 2022*
+:::
+
+::: {.callout-warning appearance="minimal"}
+# Assignments Due
+
+Your [1st short paper](assignments/01-short-paper) on the Classical Era is due Friday October 28 by email.
+:::
+
+## <i class="fas fa-info-circle fa-lg"></i> Overview
+
+Today we continue the marginalist revolution.
+
+## <i class="fas fa-book-reader fa-lg"></i> Readings
+
+### Required Readings
+
+- <i class="fas fas fa-book"></i> Ch.9 "The Transition to Neoclassical Economics: Marginal Analysis Extended" up to Profits and Interest (p.260) in Landreth & Colander
+- <i class="fas fas fa-book"></i> Ch.11 "Marginal productivity and factor prices" in Blaug
+
+### Recommended Readings:
+
+The following Wikipedia entries can also provide more background:
+
+- [<i class="fab fa-wikipedia-w"></i> Friedrich von Wieser](https://en.wikipedia.org/wiki/Friedrich_von_Wieser)
+- [<i class="fab fa-wikipedia-w"></i> Eugen von Böhm-Bawerk](https://en.wikipedia.org/wiki/Eugen_von_Böhm-Bawerk)
+- [<i class="fab fa-wikipedia-w"></i> John Bates Clark](https://en.wikipedia.org/wiki/John_Bates_Clark)
+- [<i class="fab fa-wikipedia-w"></i> Phillip Wicksteed](https://en.wikipedia.org/wiki/Phillip_Wicksteed)
+- [<i class="fab fa-wikipedia-w"></i> Francis Ysidro Edgeworth](https://en.wikipedia.org/wiki/Francis_Ysidro_Edgeworth)
+- [<i class="fab fa-wikipedia-w"></i> Knut Wicksell](https://en.wikipedia.org/wiki/Knut_Wicksell)
+
+### Questions to Help Your Reading
+
+- How are the prices of factors of production (land, labor, capital, etc) determined?
+- What is the problem of imputation?
+- What is marginal (physical) product? What is average (physical) product?
+- What are returns to scale? How are they different from economies of scale?
+- How does the assumption of competitive markets affect the answer to many of these questions?
+- What is “product exhaustion?”
+- Is there a moral connation of factors of production being paid their marginal products?
+
+## <i class="fas fa-chalkboard-teacher"></i> Slides
+
+Below, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.
+
+::: callout-tip
+You can type <kbd>h</kbd> to see a special list of viewing options, and type <kbd>o</kbd> for an outline view of all the slides.
+:::
+
+I suggest printing the slides beforehand and using them to take additional notes in class (*not everything* is in the slides)!
+
+```{r}
+#| echo: false
+#| output: asis
+
+slide_links("3.2-slides")
+```
+
+## <i class="fas fa-laptop-code"></i> Assignments
+
+### Participation/Discussion Board Posts Due 8 PM Fri Oct 28
+
+This week's graded discussion is worth 5 points, and can be a combination of discussion in class, and/or posts on the Blackboard Discussion Board by 8 PM this Friday October 28.
+
+## Tournament Votes
+
+The final round of the Pre-Classical division of the "Most Interesting Economist in History" tournament is live. Please post your votes in the discussion board.

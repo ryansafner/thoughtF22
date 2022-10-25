@@ -6,7 +6,7 @@ execute:
 
 ::: {.callout-note appearance="minimal"}
 # Deadline
-Due by email 8:00 PM Friday, October 27.
+Due by email 8:00 PM Friday, October 28.
 :::
 
 > "How can I know what I think until I see what I say?" --- E. M. Forster on Writing

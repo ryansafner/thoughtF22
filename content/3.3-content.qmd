@@ -1,5 +1,5 @@
 ---
-title: "3.3 — Capital & Interest Theory — Class Content"
+title: "3.3 — Profit, Entrepreneurship, Capital, and Interest — Class Content"
 execute:
   freeze: auto
 ---

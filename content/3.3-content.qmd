@@ -84,7 +84,7 @@ I suggest printing the slides beforehand and using them to take additional notes
 #| echo: false
 #| output: asis
 
-slide_links("3.2-slides")
+slide_links("3.3-slides")
 ```
 
 ## <i class="fas fa-laptop-code"></i> Assignments

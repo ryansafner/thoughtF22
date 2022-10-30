@@ -75,6 +75,10 @@ website:
               href: content/3.2-content.qmd
             - text: "3.3 — Capital & Interest Theory"
               href: content/3.3-content.qmd
+            - text: "3.4 — Marshallian Economics I: Demand & Utility"
+              href: content/3.4-content.qmd
+            - text: "3.5 — Marshallian Economics II: Cost & Supply"
+              href: content/3.5-content.qmd
     - title: "Assignments"
       style: "docked"
       search: false

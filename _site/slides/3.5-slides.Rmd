@@ -3175,10 +3175,30 @@ Adam Smith
 
 ---
 
+# Robinson on Marshall
+
+.left-column[
+.center[
+![:scale 80%](../images/joanrobinson.jpg)
+.smallest[
+Joan Robinson
+
+1903-1983
+]]
+]
+
+.right-column[
+
+> “Marshall had the ability to recognize hard problems and hide them in plain sight.”
+
+]
+
+---
+
 # Tax-Bounty Analysis Across Industries
 
 .pull-left[
-.smaller[
+.smallest[
 - Marshall thought that it might be a good idea (he showed geometrically) to **tax** industries with increasing costs (they produce less and lower prices) and **subsidize** industries with decreasing costs and this would on net improve consumer welfare
   - However, ignores producer surplus
 
@@ -3193,9 +3213,6 @@ Adam Smith
 ]
 
 ---
-
-# Producer's Surplus
-
 # Producer Surplus I
 
 .pull-left[
@@ -3244,7 +3261,7 @@ ps+geom_polygon(data=ps_1, aes(x=x,y=y), fill="red", alpha=0.5)
 
 ---
 
-# Producer Surplus I
+# Producer Surplus II
 
 .pull-left[
 
@@ -3258,7 +3275,7 @@ ps+geom_polygon(data=ps_1, aes(x=x,y=y), fill="red", alpha=0.5)
 
 .pull-right[
 
-![](https://microf22.classes.ryansafner.com/slides/2.4-slides_files/figure-html/unnamed-chunk-9-1.png)
+![](https://microf22.cmarslasses.ryansafner.com/slides/2.4-slides_files/figure-html/unnamed-chunk-9-1.png)
 
 .source[Source: From my [ECON 306 slides](https://microf22.classes.ryansafner.com/slides/2.4-slides.html#45)]
 ]

@@ -1,0 +1,64 @@
+---
+title: "3.6 — Walrasian General Equilibrium Theory — Class Content"
+execute:
+  freeze: auto
+---
+
+```{r, echo = F}
+source(here::here("slides", "slide-links.R"))
+```
+
+::: {.callout-note appearance="minimal"}
+# Meeting Dates
+
+*Tuesday, November 7, 2022*
+:::
+
+## <i class="fas fa-info-circle fa-lg"></i> Overview
+
+Today we finally look at the third Marginalist Revolutionary, Leon Walras, and his approach to general equilibrium.
+
+## <i class="fas fa-book-reader fa-lg"></i> Readings
+
+### Required Readings
+
+- <i class="fas fas fa-book"></i> Ch.11 "Walras and General Equilibrium Theory" in Landreth & Colander
+- <i class="fas fas fa-book"></i> Ch.13 "General Equilibrium and Welfare Economics" in Blaug
+
+### Recommended Readings:
+
+- [<i class="fas fas fa-book"></i> Marshall, Alfred, 1920 (1890), *Principles of Economics* (8th ed.)](https://www.econlib.org/library/Marshall/marP.html)
+
+The following Wikipedia entries can also provide more background:
+
+- [<i class="fab fa-wikipedia-w"></i> Leon Walras](https://en.wikipedia.org/wiki/Leon_Walras)
+- [<i class="fab fa-wikipedia-w"></i> General Equilibrium Theory](https://en.wikipedia.org/wiki/General_equilibrium_theory)
+
+### Questions to Help Your Reading
+
+## <i class="fas fa-chalkboard-teacher"></i> Slides
+
+Below, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.
+
+::: callout-tip
+You can type <kbd>h</kbd> to see a special list of viewing options, and type <kbd>o</kbd> for an outline view of all the slides.
+:::
+
+I suggest printing the slides beforehand and using them to take additional notes in class (*not everything* is in the slides)!
+
+```{r}
+#| echo: false
+#| output: asis
+
+slide_links("3.5-slides")
+```
+
+## <i class="fas fa-laptop-code"></i> Assignments
+
+### Participation/Discussion Board Posts Due 8 PM Fri Nov 4
+
+This week's graded discussion is worth 5 points, and can be a combination of discussion in class, and/or posts on the Blackboard Discussion Board by 8 PM this Friday November 4.
+
+## Tournament Votes
+
+The first round of the Classical division of the "Most Interesting Economist in History" tournament is live. Please post your votes in the discussion board.

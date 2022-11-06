@@ -3198,7 +3198,7 @@ Joan Robinson
 # Tax-Bounty Analysis Across Industries
 
 .pull-left[
-.smallest[
+.quitesmall[
 - Marshall thought that it might be a good idea (he showed geometrically) to **tax** industries with increasing costs (they produce less and lower prices) and **subsidize** industries with decreasing costs and this would on net improve consumer welfare
   - However, ignores producer surplus
 

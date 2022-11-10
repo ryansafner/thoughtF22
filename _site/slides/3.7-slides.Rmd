@@ -52,7 +52,7 @@ class: inverse
 
 ## [Vilfredo Pareto & Paretian Welfare Economics](#10)
 
-## [A.C. Pigou, Externalities & Marshallian Welfare Economics](#10)
+## [A.C. Pigou, Externalities & Marshallian Welfare Economics](#47)
 
 ---
 
@@ -1192,6 +1192,32 @@ A.C. Pigou
 
 ---
 
+# A.C. Pigou
+
+.left-column[
+.center[
+![:scale 80%](https://www.dropbox.com/s/ekndrrnmhz2kna6/pigou.png?raw=1)
+
+A.C. Pigou
+
+1877-1959
+]
+]
+
+.right-column[
+
+.smallest[
+
+> “It is plain that .hi[divergences between private and social net product] of the kinds we have so far been considering cannot...be mitigated by a modification of the contractual relation between any two contracting
+parties, because .hi[the divergence arises out of a service or disservice rendered to persons other than the contracting parties]. .hi[It is, however, possible for the State], if it so chooses, .hi[to remove the divergence] in any field .hi[by “extraordinary encouragements” or “extraordinary restraints” upon investments] in that field. The most obvious forms which these encouragements and restraints may assume are, of course, those of .hi[bounties and taxes]. Broad illustrations of the policy of intervention in both its negative and positive aspects are easily provided,” (p.111).
+
+]
+
+.source[Pigou, Arthur Cecil, 1920, *The Economics of Welfare*]
+]
+
+---
+
 ```{r}
 library("mosaic")
 demand_1=function(x){10-x}
@@ -1484,4 +1510,52 @@ $$t = MSC-MPC$$
 
 - Producers (and consumers) now consider the true cost to society
   - $MPC$ (with tax) $=MSC$
+]
+
+---
+
+# A.C. Pigou: It's Not That Simple!
+
+.left-column[
+.center[
+![:scale 80%](https://www.dropbox.com/s/ekndrrnmhz2kna6/pigou.png?raw=1)
+
+A.C. Pigou
+
+1877-1959
+]
+]
+
+.right-column[
+
+.quitesmall[
+> “In any industry, where there is reason to believe that the free play of self-interest will cause an amount of resources to be invested different from the amount that is required in the best interest of the national dividend, there is a prima facie case for public intervention. The case, however, cannot become more than a prima facie one, until we have considered the qualifications, which governmental agencies may be expected to possess for intervening advantageously. It is not sufficient to contrast the imperfect adjustments of unfettered private enterprise with the best adjustment that economists in their studies can imagine. For we cannot expect that any public authority will attain, or will even whole-heartedly seek, that ideal. Such authorities are liable alike to ignorance, to sectional pressure and to personal corruption by private interest. A loud-voiced part of their constituents, if organised for votes, may easily outweigh the whole. This objection to public intervention in industry applies both to intervention through control of private companies and to intervention through direct public operation. On the one side, companies, particularly when there is continuing regulation, may employ corruption, not only in the getting of their franchise, but also in the execution of it.”
+
+]
+.source[Pigou, Arthur Cecil, 1920, *The Economics of Welfare*]
+]
+
+---
+
+# A.C. Pigou: It's Not That Simple!
+
+.left-column[
+.center[
+![:scale 80%](https://www.dropbox.com/s/ekndrrnmhz2kna6/pigou.png?raw=1)
+
+A.C. Pigou
+
+1877-1959
+]
+]
+
+.right-column[
+
+.quitesmall[
+> “Regulation does not end with the formulation and adoption of a satisfactory contract, itself a considerable task…. As with a constitution, a statute, or a charter, so with a franchise. It has been proved that such an agreement is not self-enforcing, but must be fought for, through a term of years, as vigorously as at the time
+of formulation and adoption. A hostile, lax, or ignorant city council, or even a State legislature, may vary the terms of the agreement in such a manner as totally to destroy or seriously to impair its value.” For this the companies maintain a continuing lobby. “It is from them that the politicians get their campaign funds.” This evil has a cumulative effect; for it checks the entry of upright men into government, and so makes the corrupting influence more free. On the other side, when public authorities themselves work enterprises, the possibilities of corruption are changed only in form. “The new undertakings proposed by the municipalisers would lead to dealings to the extent of many million dollars with tradesmen, builders, architects, etc., to the
+increase, by hundred, of important offices, and to the employment of tens of thousands of additional public servants. Party leaders would have their proportion of increased patronage. Every public official is a potential opportunity for some form of self-interest arrayed against the common interest.” (p.190-191).
+
+]
+.source[Pigou, Arthur Cecil, 1920, *The Economics of Welfare*]
 ]

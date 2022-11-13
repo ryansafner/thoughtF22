@@ -1,0 +1,97 @@
+---
+title: "4.1 — The German Historical School & American Institutionalism  — Class Content"
+execute:
+  freeze: auto
+---
+
+```{r, echo = F}
+source(here::here("slides", "slide-links.R"))
+```
+
+::: {.callout-note appearance="minimal"}
+# Meeting Dates
+
+*Tuesday, November 15, 2022*
+:::
+
+## <i class="fas fa-info-circle fa-lg"></i> Overview
+
+Today we begin looking at some major competing approaches to economics during the late 19<sup>th</sup> century into the Progressive Era of the early 20<sup>th</sup> century. These both serve as alternatives and criticisms of neoclassical economics of the Marshallian and the Walrasian variety.
+
+We start in Central Europe with the German Historical School, who viewed economics as having no special status or claims to universality beyond the study of history and the particular circumstances of different times and places. They famously got into a conflict with Carl Menger, the Austrian marginalist (who himself was no fan of the Classical School), over this methodological issue. Before this, we consider one "predecessor" to the Historical approach, an important writer on international trade and development (because his views are a direct contrast to Smith and the Classical approach), Friedrich List. His work *The National System of Political Economy* is considered the "Bible of protectionism."
+
+Their influence extended to the United States via the Institutionalist approach to economics, which we consider next. We first discuss the Progressive Era and the rising attitudes towards maximizing social efficiency, rationalizing society along scientific basis, and using the State through administrative agencies to intervene in markets to accomplish these ends. We end with a focus on one of the most famous American critic of neoclassical economics (he himself coined the term as the object of his ire) — Thorstein Veblen. 
+
+## <i class="fas fa-book-reader fa-lg"></i> Readings
+
+### Required Readings
+
+- <i class="fas fas fa-book"></i> Thorstein Veblen & writings in *Reader*
+- <i class="fas fas fa-book"></i> End of Ch.12 "Institutional and Historical Critics of Neoclassical Economics" in Landreth & Colander
+
+### Recommended Readings:
+
+- [<i class="fas fa-file-pdf"></i> Wilson, Woodrow, 1887, "The Study of Administration"](https://publics22.classes.ryansafner.com/readings/Wilson-1887.pdf)
+- [<i class="fas fa-chalkboard-teacher"></i> 2.5 — An Intellectual History of Trade III: Better Protectionist Arguments](https://tradef20.classes.ryansafner.com/class/2.5-class/)
+
+- I cover Friedrich List and the infant industry argument for protectionism and against free trade in my International Trade course (2.3-2.6)
+
+The following Wikipedia entries can also provide more background:
+
+#### On The Historical School
+- [<i class="fab fa-wikipedia-w"></i> Historical school of economics](https://en.wikipedia.org/wiki/Historical_school_of_economics)
+- [<i class="fab fa-wikipedia-w"></i> Friedrich List](https://en.wikipedia.org/wiki/Friedrich_List)
+- [<i class="fab fa-wikipedia-w"></i> Infant industry argument](https://en.wikipedia.org/wiki/Infant_industry_argument)
+- [<i class="fab fa-wikipedia-w"></i> Gustav von Schmoller](https://en.wikipedia.org/wiki/Gustav_von_Schmoller)
+- [<i class="fab fa-wikipedia-w"></i> Methodenstreit](https://en.wikipedia.org/wiki/Methodenstreit)
+
+#### On American Institutionalism and the Progressive Era
+- [<i class="fab fa-wikipedia-w"></i> Progressivism in the United States](https://en.wikipedia.org/wiki/Progressivism_in_the_United_States)
+- [<i class="fab fa-wikipedia-w"></i> Institutional economics](https://en.wikipedia.org/wiki/Institutional_economics)
+- [<i class="fab fa-wikipedia-w"></i> Thorstein Veblen](https://en.wikipedia.org/wiki/Thorstein_Veblen)
+- [<i class="fab fa-wikipedia-w"></i> Conspicuous consumption](https://en.wikipedia.org/wiki/Conspicuous_consumption)
+- [<i class="fab fa-wikipedia-w"></i> John R. Commons](https://en.wikipedia.org/wiki/John_R._Commons)
+- [<i class="fab fa-wikipedia-w"></i> New institutional economics](https://en.wikipedia.org/wiki/New_institutional_economics)
+
+### Questions to Help Your Reading
+
+- What was the *Methodenstreit* between Gustav von Schmoller and Carl Menger about?
+
+- What was Friedrich List’s focus, and why did he critique Smith and the Classical economists on free trade? What policies did he recommend?
+
+- What were the unifying themes of the Historical school? What was their view on the scope and methodology of economics?
+
+- What were the unifying themes of the American Institutionalists?
+
+- What was Veblen’s critique of “neoclassical economics?” What fundamental assumptions are flawed? How, according to Veblen, is economic analysis unscientific?
+
+- What was Veblen’s theory of instincts, and the dichotomy in human social affairs?
+
+- What is “conspicuous consumption,” according to Veblen?
+
+## <i class="fas fa-chalkboard-teacher"></i> Slides
+
+Below, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.
+
+::: callout-tip
+You can type <kbd>h</kbd> to see a special list of viewing options, and type <kbd>o</kbd> for an outline view of all the slides.
+:::
+
+I suggest printing the slides beforehand and using them to take additional notes in class (*not everything* is in the slides)!
+
+```{r}
+#| echo: false
+#| output: asis
+
+slide_links("4.1-slides")
+```
+
+## <i class="fas fa-laptop-code"></i> Assignments
+
+### Participation/Discussion Board Posts Due 8 PM Fri Nov 18
+
+This week's graded discussion is worth 5 points, and can be a combination of discussion in class, and/or posts on the Blackboard Discussion Board by 8 PM this Friday November 18.
+
+## Tournament Votes
+
+The first round of the Classical division of the "Most Interesting Economist in History" tournament is live. Please post your votes in the discussion board.

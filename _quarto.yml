@@ -79,6 +79,13 @@ website:
               href: content/3.4-content.qmd
             - text: "3.5 — Marshallian Economics II: Cost & Supply"
               href: content/3.5-content.qmd
+        - section: "IV. Challenges & Extensions to Neoclassical Economics"
+          contents:
+            - text: "4.1 — The German Historical School & American Institutionalism"
+              href: content/3.1-content.qmd
+            - text: "4.2 — The Socialist Calculation Debate"
+              href: content/3.2-content.qmd
+
     - title: "Assignments"
       style: "docked"
       search: false
@@ -91,6 +98,8 @@ website:
           contents:
             - text: "Short Paper 1"
               href: assignments/01-short-paper.qmd
+            - text: "Short Paper 2"
+              href: assignments/02-short-paper.qmd
             - text: "Term Paper"
               href: assignments/term-paper.qmd
 

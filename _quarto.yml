@@ -82,9 +82,9 @@ website:
         - section: "IV. Challenges & Extensions to Neoclassical Economics"
           contents:
             - text: "4.1 — The German Historical School & American Institutionalism"
-              href: content/3.1-content.qmd
+              href: content/4.1-content.qmd
             - text: "4.2 — The Socialist Calculation Debate"
-              href: content/3.2-content.qmd
+              href: content/4.2-content.qmd
 
     - title: "Assignments"
       style: "docked"

@@ -25,7 +25,7 @@ This claim, coupled with the fact that in the late 1910s a major European power 
 ### Required Readings
 
 - <i class="fas fas fa-book"></i> Ch.13 "Austrian Critique of Neoclassical Economics and the Debate about Socialism and Capitalism" in Landreth & Colander
-- [<i class="fas fa-file-pdf"></i> Mises (1920), "Economic Calculation in the Socialist Commonwealth"](/readings/Mises-1920.pdf)
+- [<i class="fas fa-file-pdf"></i> Mises (1920), "Economic Calculation in the Socialist Commonwealth"](/files/readings/Mises-1920.pdf)
 - [<i class="fab fa-youtube"></i> "What if There Were No Prices?"](https://www.youtube.com/watch?v=zkPGfTEZ_r4)
 - [<i class="fab fa-youtube"></i> "Mises vs. Marx: The March of History Rap Battle"](https://misesvsmarx.aier.org)
 
@@ -33,8 +33,8 @@ This claim, coupled with the fact that in the late 1910s a major European power 
 
 ### Recommended Readings:
 
-- [<i class="fas fa-file-pdf"></i> Hayek (1945), "The Use of Knowledge in Society"](/readings/Hayek-1945.pdf)
-- [<i class="fas fa-file-pdf"></i> White, 2012, "The Bolshevik Revolution and the Socialist Calculation Debate," Ch. 2 in *The Clash of Economic Ideas*](/readings/White-2012-Ch2.pdf)
+- [<i class="fas fa-file-pdf"></i> Hayek (1945), "The Use of Knowledge in Society"](/files/readings/Hayek-1945.pdf)
+- [<i class="fas fa-file-pdf"></i> White, 2012, "The Bolshevik Revolution and the Socialist Calculation Debate," Ch. 2 in *The Clash of Economic Ideas*](/files/readings/White-2012-Ch2.pdf)
 
 The following Wikipedia entries can also provide more background:
 

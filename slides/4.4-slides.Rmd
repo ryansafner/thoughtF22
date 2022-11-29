@@ -678,9 +678,6 @@ John Maynard Keynes
 
 ]
 
-
-]
-
 .source[Keynes, John Maynard, 1936, *The General Theory of Employment, Interest, and Money*]
 
 ]

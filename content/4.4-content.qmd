@@ -1,0 +1,64 @@
+---
+title: "4.4 — The Keynesian Revolution — Class Content"
+execute:
+  freeze: auto
+---
+
+```{r, echo = F}
+source(here::here("slides", "slide-links.R"))
+```
+
+::: {.callout-note appearance="minimal"}
+# Meeting Dates
+
+*Tuesday, November 29, 2022*
+:::
+
+## <i class="fas fa-info-circle fa-lg"></i> Overview
+
+## <i class="fas fa-book-reader fa-lg"></i> Readings
+
+### Required Readings
+
+- <i class="fas fas fa-book"></i> “Keynesian Macroeconomics” in Ch.15 "The Development of Modern Macroeconomic Thought" in Landreth & Colander
+
+### Recommended Readings:
+
+- [<i class="fas fa-podcast"></i> NPR's *Planet Money*: "The Invention of the Economy"](https://www.npr.org/sections/money/2014/03/05/286366404/episode-521-the-invention-of-the-economy)
+- [<i class="fas fas fa-book"></i> Keynes, 1936, *The General Theory of Employment, Interest and Money*](https://www.marxists.org/reference/subject/economics/keynes/general-theory/)
+
+### Helpful:
+
+- [<i class="fab fa-wikipedia-w"></i> John Maynard Keynes](https://en.wikipedia.org/wiki/John_Maynard_Keynes)
+- [<i class="fab fa-wikipedia-w"></i> The General Theory of Employment, Interest and Money](https://en.wikipedia.org/wiki/The_General_Theory_of_Employment,_Interest_and_Money)
+- [<i class="fab fa-wikipedia-w"></i> Keynesian Revolution](https://en.wikipedia.org/wiki/Keynesian_Revolution)
+- [<i class="fab fa-wikipedia-w"></i> Keynesian economics](https://en.wikipedia.org/wiki/Keynesian_Revolutionhttps://en.wikipedia.org/wiki/Keynesian_economics)
+
+### Questions to Help Your Reading
+
+## <i class="fas fa-chalkboard-teacher"></i> Slides
+
+Below, you can find the slides in two formats. Clicking the image will bring you to the html version of the slides in a new tab. The lower button will allow you to download a PDF version of the slides.
+
+::: callout-tip
+You can type <kbd>h</kbd> to see a special list of viewing options, and type <kbd>o</kbd> for an outline view of all the slides.
+:::
+
+I suggest printing the slides beforehand and using them to take additional notes in class (*not everything* is in the slides)!
+
+```{r}
+#| echo: false
+#| output: asis
+
+slide_links("4.4-slides")
+```
+
+## <i class="fas fa-laptop-code"></i> Assignments
+
+### Participation/Discussion Board Posts Due 8 PM Fri Dec 2
+
+This week's graded discussion is worth 5 points, and can be a combination of discussion in class, and/or posts on the Blackboard Discussion Board by 8 PM this Friday December 2.
+
+## Tournament Votes
+
+The first round of the Neoclassical division of the "Most Interesting Economist in History" tournament is live. Please post your votes in the discussion board.

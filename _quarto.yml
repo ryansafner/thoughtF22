@@ -87,7 +87,11 @@ website:
               href: content/4.2-content.qmd
             - text: "4.3 — The Evolution of Modern Microeconomics"
               href: content/4.3-content.qmd
-
+            - text: "4.4 — The Keynesian Revolution"
+              href: content/4.4-content.qmd
+            - text: "4.5 — The Evolution of Modern Macroeconomics"
+              href: content/4.5-content.qmd
+              
     - title: "Assignments"
       style: "docked"
       search: false

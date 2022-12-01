@@ -1,38 +1,21 @@
----
-title: "4.5 — Modern Macroeconomics"
-author: 'Ryan Safner'
-output:
-  xaringan::moon_reader:
-    lib_dir: libs
-    df_print: paged
-    seal: false
-    css: [custom.css, "hygge"] #, metropolis, metropolis-fonts
-    nature:
-      beforeInit: ["macros.js", "https://platform.twitter.com/widgets.js"] # first is for rescaling images , second is for embedding tweets, https://github.com/yihui/xaringan/issues/100
-      highlightStyle: github
-      highlightLines: true
-      countIncrementalSlides: false
-      ratio: "16:9"
-      slideNumberFormat: |
-        <div class="progress-bar-container">
-          <div class="progress-bar" style="width: calc(%current% / %total% * 100%);">
-          </div>
-        </div>
-    includes:
-      in_header: header.html # for font awesome, used in title  
----
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>4.5 — Modern Macroeconomics</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="Ryan Safner" />
+    <script src="libs/header-attrs/header-attrs.js"></script>
+    <link href="libs/remark-css/hygge.css" rel="stylesheet" />
+    <link href="libs/pagedtable/css/pagedtable.css" rel="stylesheet" />
+    <script src="libs/pagedtable/js/pagedtable.js"></script>
+    <script src="https://use.fontawesome.com/5235085b15.js"></script>
+    <link rel="stylesheet" href="custom.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
 
-```{r setup, include=FALSE}
-options(htmltools.dir.version = FALSE)
-knitr::opts_chunk$set(echo=F,
-                      message=F,
-                      warning=F)
-library(tidyverse)
-library(ggrepel)
-library(ggthemes)
-set.seed(256)
-update_geom_defaults("label", list(family = "Fira Sans Condensed"))
-```
+
+
 
 class: title-slide
 
@@ -40,7 +23,7 @@ class: title-slide
 
 ## ECON 452 • History of Economic Thought • Fall 2022
 
-### Ryan Safner<br> Associate Professor of Economics <br> <a href="mailto:safner@hood.edu"><i class="fa fa-paper-plane fa-fw"></i>safner@hood.edu</a> <br> <a href="https://github.com/ryansafner/thoughtF22"><i class="fa fa-github fa-fw"></i>ryansafner/thoughtF22</a><br> <a href="https://thoughtF22.classes.ryansafner.com"> <i class="fa fa-globe fa-fw"></i>thoughtF22.classes.ryansafner.com</a><br>
+### Ryan Safner&lt;br&gt; Associate Professor of Economics &lt;br&gt; &lt;a href="mailto:safner@hood.edu"&gt;&lt;i class="fa fa-paper-plane fa-fw"&gt;&lt;/i&gt;safner@hood.edu&lt;/a&gt; &lt;br&gt; &lt;a href="https://github.com/ryansafner/thoughtF22"&gt;&lt;i class="fa fa-github fa-fw"&gt;&lt;/i&gt;ryansafner/thoughtF22&lt;/a&gt;&lt;br&gt; &lt;a href="https://thoughtF22.classes.ryansafner.com"&gt; &lt;i class="fa fa-globe fa-fw"&gt;&lt;/i&gt;thoughtF22.classes.ryansafner.com&lt;/a&gt;&lt;br&gt;
 
 ---
 
@@ -82,7 +65,7 @@ Economics Nobel 1974
 
 - Became the major competing theory of the business cycle and macroeconomics to Keynes in 1930s
 
-- Focus on capital theory, building off of Mises’ theory of money and credit & Wicksell’s theory of the natural rate of interest
+- Focus on capital theory, building off of Mises’ theory of money and credit &amp; Wicksell’s theory of the natural rate of interest
 
 - Revival of Austrian Business Cycle Theory (and Keynesian theory) as possible explanation of 2008-2009 financial crisis
 
@@ -113,9 +96,9 @@ Economics Nobel 1974
 .right-column[
 .smallest[
 
-> “Mr. Keynes’ aggregates conceal the most fundamental mechanisms of change.”
+&gt; “Mr. Keynes’ aggregates conceal the most fundamental mechanisms of change.”
 		
-> “Mr. Keynes’ assertion that there is no automatic mechanism in the economic system to keep the rate of saving and the rate of investing equal might with equal justification be extended to the more general contention that there is no automatic mechanism in the economic system to adapt production to any shift in demand. I begin to wonder whether Mr. Keynes has ever reflected upon the function of the rate of interest...”
+&gt; “Mr. Keynes’ assertion that there is no automatic mechanism in the economic system to keep the rate of saving and the rate of investing equal might with equal justification be extended to the more general contention that there is no automatic mechanism in the economic system to adapt production to any shift in demand. I begin to wonder whether Mr. Keynes has ever reflected upon the function of the rate of interest...”
 
 ]
 
@@ -172,7 +155,7 @@ Economics Nobel 1974
 
 .right-column[
 
-> “Before we can even ask how things might go wrong, we must first explain how they could ever go right.”
+&gt; “Before we can even ask how things might go wrong, we must first explain how they could ever go right.”
 
 .source[Hayek, F.A., 1948, “Economics and Knowledge” in *Individualism and Economic Order*]
 
@@ -200,7 +183,7 @@ Economics Nobel 1974
 .pull-left[
 .smallest[
  
-- Capital is .hi[heterogeneous] — not one identical aggregate “blob” $K$, but a variety of goods
+- Capital is .hi[heterogeneous] — not one identical aggregate “blob” `\(K\)`, but a variety of goods
   - e.g. beer barrels, blast furnaces, computers, trucks, hammers, etc
 
 - Capital is .hi[specific] to particular uses and not others, with a cost of switching uses
@@ -226,8 +209,8 @@ Economics Nobel 1974
 .pull-left[
 .smallest[
 - .hi[Time-preference]: make tradeoff between present consumption and saving/investment (in hopes of *higher* future consumption)
-  - Decrease in time preference: $(I,S_1, c_1) \rightarrow (I,S_2, c_2)$
-  - Increase in time preference: $(I,S_1, c_1) \leftarrow (I,S_2, c_2)$
+  - Decrease in time preference: `\((I,S_1, c_1) \rightarrow (I,S_2, c_2)\)`
+  - Increase in time preference: `\((I,S_1, c_1) \leftarrow (I,S_2, c_2)\)`
 ]
 ]
 .pull-right[
@@ -279,7 +262,7 @@ Economics Nobel 1974
 - Market for loanable funds
   - .red[Supply] of savings
   - .blue[Demand] to borrow
-  - determines market interest rate $r$
+  - determines market interest rate `\(r\)`
 ]
 
 .pull-right[
@@ -345,10 +328,10 @@ Economics Nobel 1974
 
 .pull-left[
 
-- Suppose through credit expansion (Central bank monetary policy), interest rates are artificially lowered tor $r_2$
-  - below the “natural rate” determined by real savings & demand, $r_1$
+- Suppose through credit expansion (Central bank monetary policy), interest rates are artificially lowered tor `\(r_2\)`
+  - below the “natural rate” determined by real savings &amp; demand, `\(r_1\)`
 
-- At $r_2$, investment $I_2>S_2$ savings
+- At `\(r_2\)`, investment `\(I_2&gt;S_2\)` savings
 
 ]
 
@@ -450,7 +433,7 @@ Economics Nobel 1971
   - GDP and GNP
   - Disapproved of it as a measure of welfare:
 
-> “the welfare of a nation can scarcely be inferred from a measure of national income.”
+&gt; “the welfare of a nation can scarcely be inferred from a measure of national income.”
 
 ]
 
@@ -490,14 +473,14 @@ Economics Nobel 1971
 .quitesmall[
 - .hi[Gross Domestic Product (GDP)]: the market value of all final goods and services produced within a country in a year 
 
-$$Y=C+I+G+(X-M)$$
+`$$Y=C+I+G+(X-M)$$`
 
-- $Y$: national income
-- $C$: consumption
-- $I$: investment
-- $G$: government spending
-- $X$: exports
-- $M$: imports
+- `\(Y\)`: national income
+- `\(C\)`: consumption
+- `\(I\)`: investment
+- `\(G\)`: government spending
+- `\(X\)`: exports
+- `\(M\)`: imports
 
 - .hi[Gross National Product]: GDP + production by citizens *living abroad*
 ]
@@ -522,7 +505,7 @@ $$Y=C+I+G+(X-M)$$
 - As income:
   - wages + rent + capital income
 
-- For a country: $\sum$ expenditures $=$ $\sum$ income
+- For a country: `\(\sum\)` expenditures `\(=\)` `\(\sum\)` income
 ]
 .pull-right[
 .center[
@@ -578,7 +561,7 @@ Economics Nobel 1970
   - “Keynesian Cross”
   - “Liquidity trap”
   - Aggregate demand aggregate supply analysis
-  - Fiscal policy & multipliers
+  - Fiscal policy &amp; multipliers
 ]
 
 ---
@@ -595,7 +578,7 @@ Economics Nobel 1970
 
 - Not all expenditures are planned (some inventories unsold)
 
-- Equilibrium: where $AE$ intersects 45* line
+- Equilibrium: where `\(AE\)` intersects 45* line
 ]
 ]
 
@@ -632,17 +615,17 @@ Economics Nobel 1972
 
 ---
 
-# Aggregate Demand & Aggregate Supply
+# Aggregate Demand &amp; Aggregate Supply
 
 .pull-left[
 
 - Take the quantity theory of money
-$$\underbrace{MV}_{\text{nominal spending}}=\underbrace{Py}_{\text{nominal income}}$$
+`$$\underbrace{MV}_{\text{nominal spending}}=\underbrace{Py}_{\text{nominal income}}$$`
 
-- .hi-blue[Aggregate demand]: all combinations of $P$ and $y$ consistent with same $MV$ (nominal spending)
+- .hi-blue[Aggregate demand]: all combinations of `\(P\)` and `\(y\)` consistent with same `\(MV\)` (nominal spending)
 
 - Downward-sloping
-  - if $\uparrow P$, $\downarrow y$ (and vice versa) to maintain $MV$
+  - if `\(\uparrow P\)`, `\(\downarrow y\)` (and vice versa) to maintain `\(MV\)`
 ]
 
 .pull-right[
@@ -653,12 +636,12 @@ $$\underbrace{MV}_{\text{nominal spending}}=\underbrace{Py}_{\text{nominal incom
 
 ---
 
-# Aggregate Demand & Aggregate Supply
+# Aggregate Demand &amp; Aggregate Supply
 
 .pull-left[
 
 - .hi-red[Aggregate supply]: economy has potential output determined by production function
-$$Y=f(A,L,K)$$
+`$$Y=f(A,L,K)$$`
 
 - In long run: vertical, determined by these **real factors**
 ]
@@ -671,13 +654,13 @@ $$Y=f(A,L,K)$$
 
 ---
 
-# Aggregate Demand & Aggregate Supply
+# Aggregate Demand &amp; Aggregate Supply
 
 .pull-left[
 
-- Equilibrium level of $M$ and $y$
+- Equilibrium level of `\(M\)` and `\(y\)`
 
-- Can talk about how major changes to the economy (.hi[“shocks”])  can cause changes in $M$ (inflation) and $y$ (real GDP growth)
+- Can talk about how major changes to the economy (.hi[“shocks”])  can cause changes in `\(M\)` (inflation) and `\(y\)` (real GDP growth)
 
 - Two major sources of shocks:
 
@@ -691,13 +674,13 @@ $$Y=f(A,L,K)$$
 
 ---
 
-# Aggregate Demand & Aggregate Supply
+# Aggregate Demand &amp; Aggregate Supply
 
 .pull-left[
 
-- Equilibrium level of $M$ and $y$
+- Equilibrium level of `\(M\)` and `\(y\)`
 
-- Can talk about how major changes to the economy (.hi[“shocks”])  can cause changes in $M$ (inflation) and $y$ (real GDP growth)
+- Can talk about how major changes to the economy (.hi[“shocks”])  can cause changes in `\(M\)` (inflation) and `\(y\)` (real GDP growth)
 
 - Two major sources of shocks:
   - .red[Aggregate Supply shocks]
@@ -712,13 +695,13 @@ $$Y=f(A,L,K)$$
 ---
 
 
-# Aggregate Demand & Aggregate Supply
+# Aggregate Demand &amp; Aggregate Supply
 
 .pull-left[
 
-- Equilibrium level of $M$ and $y$
+- Equilibrium level of `\(M\)` and `\(y\)`
 
-- Can talk about how major changes to the economy (.hi[“shocks”])  can cause changes in $M$ (inflation) and $y$ (real GDP growth)
+- Can talk about how major changes to the economy (.hi[“shocks”])  can cause changes in `\(M\)` (inflation) and `\(y\)` (real GDP growth)
 
 - Two major sources of shocks:
   - .red[Aggregate Supply shocks]
@@ -741,7 +724,7 @@ $$Y=f(A,L,K)$$
   - Consumption affected by MPC
   - Investment driven by “animal spirits”
 
-- Government spending can makeup shortfalls in C, I, to achieve high nominal spending $(MV)$
+- Government spending can makeup shortfalls in C, I, to achieve high nominal spending `\((MV)\)`
   - public works programs
   - fiscal policy
   - “priming the pump” and “steering the economy”
@@ -806,7 +789,7 @@ $$Y=f(A,L,K)$$
 
 .pull-right[
 
-- Samuelson & Solow made this empirical discovery an **explicit** functional relationship in the economy between unemployment and inflation
+- Samuelson &amp; Solow made this empirical discovery an **explicit** functional relationship in the economy between unemployment and inflation
 
 - Assume this relationship is exploitable by policymakers, who can “choose” the tradeoff between unemployment and inflation for the macroeconomy
 
@@ -965,7 +948,7 @@ R: Finn Kydland
 
 - Cambridge capital controversy
   - can’t aggregate capital
-  - Robinson & Sraffa (Cambridge, UK) vs. Samuelson & Solow (Cambridge, Mass)
+  - Robinson &amp; Sraffa (Cambridge, UK) vs. Samuelson &amp; Solow (Cambridge, Mass)
 
 - Growth theory
   - Exogenous growth model (Harrod-Domar, Solow)
@@ -983,3 +966,143 @@ R: Finn Kydland
 .center[
 ![:scale 60%](../images/macroschools.png)
 ]
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script src="macros.js"></script>
+<script src="https://platform.twitter.com/widgets.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false,
+"ratio": "16:9",
+"slideNumberFormat": "<div class=\"progress-bar-container\">\n  <div class=\"progress-bar\" style=\"width: calc(%current% / %total% * 100%);\">\n  </div>\n</div>\n"
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+// add `data-at-shortcutkeys` attribute to <body> to resolve conflicts with JAWS
+// screen reader (see PR #262)
+(function(d) {
+  let res = {};
+  d.querySelectorAll('.remark-help-content table tr').forEach(tr => {
+    const t = tr.querySelector('td:nth-child(2)').innerText;
+    tr.querySelectorAll('td:first-child .key').forEach(key => {
+      const k = key.innerText;
+      if (/^[a-z]$/.test(k)) res[k] = t;  // must be a single letter (key)
+    });
+  });
+  d.body.setAttribute('data-at-shortcutkeys', JSON.stringify(res));
+})(document);
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
